@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a Frontend Developer with ambition to continue learning new skills.
 ------------------------------------------------------------------------
 
-A self-taught Fullstack Developer on a coding journey for the past 2 years. Although my professional journey is just beginning, my passion for crafting digital solutions has led me to create and contribute to several noteworthy projects.
+A self-taught Frontend Developer on a coding journey for the past 2 years. Although my professional journey is just beginning, my passion for crafting digital solutions has led me to create and contribute to several noteworthy projects.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [subhadiphensh31102000@gmail.com](mailto:subhadiphensh31102000@gmail.com)
