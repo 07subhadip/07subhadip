@@ -9,7 +9,7 @@ A self-taught Frontend Developer on a coding journey for the past 2 years. Altho
 * 🌍  I'm based in India
 * ✉️  You can contact me at [subhadiphensh31102000@gmail.com](mailto:subhadiphensh31102000@gmail.com)
 * 🧠  I'm learning Backend developement
-* ⚡  I'm an Anime Lover and My favourite Anime is Demon Slayer
+* ⚡  I'm an Anime Lover and I love to play Chess♟️in the free times
 
 ### Skills
 
