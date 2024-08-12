@@ -23,8 +23,8 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "07subhadip@github.com"
+          git config --local user.name "07subhadip"
           git add count.txt
           git commit -m "Update visitor count" || echo "No changes to commit"
           git push
