@@ -16,6 +16,11 @@ A self-taught Frontend Developer on a coding journey for the past 2 years. Altho
 * 🧠  I'm learning Backend developement
 * ⚡  I'm an Anime Lover and I love to play Chess♟️in the free times
 
+<!-- <img align="right" src="https://github.com/07subhadip/07subhadip/blob/main/portrait-programmer-working-with-pc.png" width="400" height="400"> -->
+
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" height="300">
+
+
 ### Programming Languages
 
 <p align="left">
