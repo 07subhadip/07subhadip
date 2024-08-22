@@ -181,6 +181,10 @@ g" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubus
 
 <a href="https://github.com/07subhadip" align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=07subhadip&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=07subhadip" alt="07subhadip" /></a> </p>
+<!--<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=07subhadip" alt="07subhadip" /></a> </p>-->
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=07subhadip&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  </a>
 
 </div>
