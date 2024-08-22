@@ -107,6 +107,28 @@ A self-taught Frontend Developer on a coding journey for the past 2 years. Altho
     </a>
 </p>
 
+### IDEs & Editors
+
+<p align="left">
+    <!-- Visual Studio Code -->
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="36" height="36" alt="Visual Studio Code" />
+    </a>
+    <!-- Visual Studio Code Insider -->
+    <a href="https://code.visualstudio.com/insiders/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg/384px-Visual_Studio_Code_Insiders_1.36_icon.svg.png" width="36" height="36" alt="Visual Studio Code Insider" />
+    </a>
+    <!-- PyCharm -->
+    <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="36" height="36" alt="PyCharm" />
+    </a>
+    <!-- IntelliJ IDEA -->
+    <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" width="36" height="36" alt="IntelliJ IDEA" />
+    </a>
+</p>
+
+
 ### Other Tools & Technologies
 
 <p align="left">
