@@ -75,7 +75,7 @@ A self-taught Frontend Developer on a coding journey for the past 2 years. Altho
     </a>
     <!-- Kali Linux -->
     <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/07subhadip/07subhadip/blob/main/kalilinux-svgrepo-com.svg" width="36" height="36" alt="Kali Linux" />
+        <img src="https://cdn.worldvectorlogo.com/logos/kali-1.svg" width="36" height="36" alt="Kali Linux" />
     </a>
 </p>
 
