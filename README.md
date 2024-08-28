@@ -2,6 +2,13 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" width="1400" height="400">
 
+ <div style="width: 100%; overflow-x: auto; text-align: center;">
+     <div align="center" style="display: inline-block; margin-right: 1px; overflow: hidden;">
+         <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
+        <img width="30px" height="40px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64">
+        <img  valign="center" src="https://user-images.githubusercontent.com/72058182/196829939-db203b0e-3eab-4351-a864-8105c455573a.png" width="89%" height="auto"> <img width="30px" height="40px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64"><br>
+  </div>
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Subhadip Hensh
 ======================================================================================================================================
 
