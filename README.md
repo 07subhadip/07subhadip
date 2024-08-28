@@ -2,12 +2,24 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" width="1400" height="400">
 
- <div style="width: 100%; overflow-x: auto; text-align: center;">
-     <div align="center" style="display: inline-block; margin-right: 1px; overflow: hidden;">
-         <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
+<div style="width: 100%; overflow-x: auto; text-align: center;">
+<div style="width: 100%; overflow-x: auto; text-align: center;">
+    <div align="center" style="display: inline-block; margin-right: 1px; overflow: hidden;">
+        <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
         <img width="30px" height="40px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64">
-        <img  valign="center" src="https://user-images.githubusercontent.com/72058182/196829939-db203b0e-3eab-4351-a864-8105c455573a.png" width="89%" height="auto"> <img width="30px" height="40px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64"><br>
+        <img valign="center" src="https://user-images.githubusercontent.com/72058182/196829939-db203b0e-3eab-4351-a864-8105c455573a.png" width="89%" height="auto">
+        <img width="30px" height="40px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64"><br>
+    </div>
+</div>
+
+<div style="width: 100%; overflow-x: auto; text-align: center;">
+  <div align="center" style="display: inline-block; margin-right: 10px; overflow: hidden;">
+    <br>
+    <img height="200px" width="570px" style="max-width: 550px; width: 550px; height: 200px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=07subhadip&theme=vue">
+    <img height="200px" width="230px" style="max-width: 265px; width: 265px; height: 200px;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=07subhadip&theme=vue&utcOffset=8">
   </div>
+</div>
+
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Subhadip Hensh
 ======================================================================================================================================
@@ -28,130 +40,359 @@ A self-taught Frontend Developer on a coding journey for the past 2 years. Altho
 
 <!-- <img align="right" src="https://github.com/07subhadip/07subhadip/blob/main/portrait-programmer-working-with-pc.png" width="400" height="400"> -->
 
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" height="300">
+<!--- <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" height="300">-->
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
 
 
 ### Programming Languages
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-</p>
+
+<div style="display: flex;">
+  <table align="left" width="320px" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent;">
+    <tbody> 
+      <tr> 
+        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          JavaScript<br>
+          <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg">
+        </td>
+        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Python<br>
+          <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg">
+        </td>
+        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Java<br>
+          <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg">
+        </td> 
+        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          C++<br>
+          <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg">
+        </td>
+        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          C<br>
+          <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+ <br><br><br><br>
+</div>
 
 ### Frontend Development
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="36" height="36"/>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-  <!-- Vite.js -->
-    <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/07subhadip/07subhadip/blob/main/Vite.js.svg" width="36" height="36" alt="Vite.js" />
-    </a>
-</p>
+<div style="display: flex;">
+  <table align="left" width="360px" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent;">
+    <tbody> 
+      <tr> 
+        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          HTML5<br>
+          <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg">
+          </a>
+        </td>
+        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          CSS3<br>
+          <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg">
+          </a>
+        </td>
+        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          TailwindCSS<br>
+          <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg">
+          </a>
+        </td> 
+        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          React<br>
+          <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg">
+          </a>
+        </td>
+        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Redux<br>
+          <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+          </a>
+        </td>
+        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Next.js<br>
+          <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg">
+          </a>
+        </td>
+        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Angular<br>
+          <a href="https://angular.io/" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg">
+          </a>
+        </td>
+        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Bootstrap<br>
+          <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg">
+          </a>
+        </td>
+        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Sass<br>
+          <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg">
+          </a>
+        </td>
+        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Vite.js<br>
+          <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://github.com/07subhadip/07subhadip/blob/main/Vite.js.svg">
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+ <br><br><br><br>
+</div>
 
 ### Backend Development
 
-<p align="left">
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://nodemon.io/" target="_blank" rel="noreferrer"><img src="https://github.com/07subhadip/07subhadip/blob/main/Nodemon.svg" width="36" height="36"/></svg>
-<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/07subhadip/07subhadip/blob/main/NPM.svg" width="36" height="36" alt="npm" /></a>
 
 
-</p>
+
+<div style="display: flex;">
+  <table align="left" width="360px" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent;">
+    <tbody> 
+      <tr> 
+        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Node.js<br>
+          <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg">
+          </a>
+        </td>
+        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Express<br>
+          <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg">
+          </a>
+        </td>
+        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          MySQL<br>
+          <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg">
+          </a>
+        </td> 
+        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          MongoDB<br>
+          <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg">
+          </a>
+        </td>
+        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Nodemon<br>
+          <a href="https://nodemon.io/" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://github.com/07subhadip/07subhadip/blob/main/Nodemon.svg">
+          </a>
+        </td>
+        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          npm<br>
+          <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://github.com/07subhadip/07subhadip/blob/main/NPM.svg">
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+ <br><br><br><br>
+</div>
 
 ### Operating Systems
 
-<p align="left">
-    <!-- Windows 11 -->
-    <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
-        <img src="https://github.com/07subhadip/07subhadip/blob/main/Windows%2011.svg" width="36" height="36" alt="Windows 11" />
-    </a>
-    <!-- Linux -->
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/07subhadip/07subhadip/blob/main/Linux.svg" width="36" height="36" alt="Linux" />
-    </a>
-    <!-- Kali Linux -->
-    <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/kali-1.svg" width="36" height="36" alt="Kali Linux" />
-    </a>
-</p>
+<div style="display: flex;">
+  <table align="left" width="220px" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent;">
+    <tbody> 
+      <tr> 
+        <td width="70px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Windows 11<br>
+          <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://github.com/07subhadip/07subhadip/blob/main/Windows%2011.svg" alt="Windows 11" />
+          </a>
+        </td>
+        <td width="70px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Linux<br>
+          <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://github.com/07subhadip/07subhadip/blob/main/Linux.svg" alt="Linux" />
+          </a>
+        </td>
+        <td width="70px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Kali Linux<br>
+          <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://cdn.worldvectorlogo.com/logos/kali-1.svg" alt="Kali Linux" />
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+ <br><br><br><br>
+</div>
 
 ### Databases
 
-<p align="left">
-    <!-- MongoDB -->
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
-    </a>
-    <!-- Oracle -->
-    <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/07subhadip/07subhadip/blob/main/Oracle.svg" width="40" height="36" alt="Oracle" />
-    </a>
-    <!-- MySQL -->
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-</p>
+
+<div style="display: flex;">
+  <table align="left" width="220px" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent;">
+    <tbody>
+      <tr>
+        <td width="70px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          MongoDB<br>
+          <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" />
+          </a>
+        </td>
+        <td width="70px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Oracle<br>
+          <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://github.com/07subhadip/07subhadip/blob/main/Oracle.svg" alt="Oracle" />
+          </a>
+        </td>
+        <td width="70px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          MySQL<br>
+          <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" />
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+ <br><br><br><br>
+</div>
 
 ### Version Control
 
-<p align="left">
-    <!-- Git -->
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-    <!-- GitHub -->
-    </a> <a href="https://www.github.com/07subhadip" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
-    <!-- GitHub Actions -->
-    <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-        <img src="https://github.com/07subhadip/07subhadip/blob/main/GitHub%20Actions.svg" width="36" height="36" alt="GitHub Actions" />
-    </a>
-</p>
+
+
+<div style="display: flex;">
+  <table align="left" width="220px" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent;">
+    <tbody>
+      <tr>
+        <td width="70px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Git<br>
+          <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" />
+          </a>
+        </td>
+        <td width="70px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          GitHub<br>
+          <a href="https://www.github.com/07subhadip" target="_blank" rel="noreferrer">
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+              <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+              <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+            </picture>
+          </a>
+        </td>
+        <td width="70px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          GitHub Actions<br>
+          <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://github.com/07subhadip/07subhadip/blob/main/GitHub%20Actions.svg" alt="GitHub Actions" />
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+ <br><br><br><br>
+</div>
 
 ### IDEs & Editors
 
-<p align="left">
-    <!-- Visual Studio Code -->
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="36" height="36" alt="Visual Studio Code" />
-    </a>
-    <!-- Visual Studio Code Insider -->
-    <a href="https://code.visualstudio.com/insiders/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg/384px-Visual_Studio_Code_Insiders_1.36_icon.svg.png" width="36" height="36" alt="Visual Studio Code Insider" />
-    </a>
-    <!-- PyCharm -->
-    <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="36" height="36" alt="PyCharm" />
-    </a>
-    <!-- IntelliJ IDEA -->
-    <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" width="36" height="36" alt="IntelliJ IDEA" />
-    </a>
-</p>
+
+<div style="display: flex;">
+  <table align="left" width="220px" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent;">
+    <tbody>
+      <tr>
+        <td width="70px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Visual Studio Code<br>
+          <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" />
+          </a>
+        </td>
+        <td width="70px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Visual Studio Code Insider<br>
+          <a href="https://code.visualstudio.com/insiders/" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg/384px-Visual_Studio_Code_Insiders_1.36_icon.svg.png" alt="Visual Studio Code Insider" />
+          </a>
+        </td>
+        <td width="70px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          PyCharm<br>
+          <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm" />
+          </a>
+        </td>
+        <td width="70px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          IntelliJ IDEA<br>
+          <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA" />
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+ <br><br><br><br><br><br>
+</div>
 
 
 ### Other Tools & Technologies
 
-<p align="left">
 
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="36" height="36" alt="TensorFlow" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
 
+<div style="display: flex;">
+  <table align="left" width="420px" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent;">
+    <tbody>
+      <tr>
+        <td width="60px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Flask<br>
+          <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer">
+            <img height="36px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" />
+          </a>
+        </td>
+        <td width="60px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Flutter<br>
+          <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+            <img height="36px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" />
+          </a>
+        </td>
+        <td width="60px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Arduino<br>
+          <a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer">
+            <img height="36px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" />
+          </a>
+        </td>
+        <td width="60px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Docker<br>
+          <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+            <img height="36px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" />
+          </a>
+        </td>
+        <td width="60px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          TensorFlow<br>
+          <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+            <img height="36px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" />
+          </a>
+        </td>
+        <td width="60px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Raspberry Pi<br>
+          <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
+            <img height="36px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" />
+          </a>
+        </td>
+        <td width="60px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Figma<br>
+          <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+            <img height="36px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" />
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+ <br><br><br><br>
+</div>
 
 
 ### Connect With Me
@@ -180,7 +421,7 @@ g" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubus
 ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-
+<img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
 
 <div align= "center">
 <b>My GitHub Stats</b>
