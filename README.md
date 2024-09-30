@@ -419,8 +419,11 @@ A self-taught Frontend Developer on a coding journey for the past 2 years. Altho
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Subhadip_Hensh?ext=contest)
 
+[![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=subhadiphensh31102000)](https://auth.geeksforgeeks.org/user/subhadiphensh31102000/practice/)
 
 <b>My GitHub Stats</b>
+
+
 
 <a href="http://www.github.com/07subhadip"><img src="https://github-readme-stats.vercel.app/api?username=07subhadip&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="07subhadip's GitHub stats" /></a>
 
