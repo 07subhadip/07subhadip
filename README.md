@@ -24,11 +24,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Subhadip Hensh
 ======================================================================================================================================
 
-I am a Frontend Developer with ambition to continue learning new skills.
+I am a Full Stack Developer driven to expand my skills and knowledge.
 ------------------------------------------------------------------------
 
-A self-taught Frontend Developer on a coding journey for the past 2 years. Although my professional journey is just beginning, my passion for crafting digital solutions has led me to create and contribute to several noteworthy projects.
-
+A <strong>self-taught Developer</strong> on a coding journey for the past 4 years, I’m always eager to learn new skills and bring innovative ideas to life. Though my professional career is just beginning, I’m dedicated to making a meaningful impact through technology.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=07subhadip&label=Profile%20views&color=0e75b6&style=flat" alt="07subhadip" /> </p>
 
 <p align="left"> <a href="https://twitter.com/subha_hensh07" target="blank"><img src="https://img.shields.io/twitter/follow/subha_hensh07?logo=twitter&style=for-the-badge" alt="subha_hensh07" /></a> </p>
