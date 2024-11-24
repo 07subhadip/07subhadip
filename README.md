@@ -28,9 +28,10 @@ I am a Full Stack Developer driven to expand my skills and knowledge.
 ------------------------------------------------------------------------
 
 A <strong>self-taught Developer</strong> on a coding journey for the past 4 years, I’m always eager to learn new skills and bring innovative ideas to life. Though my professional career is just beginning, I’m dedicated to making a meaningful impact through technology.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=07subhadip&label=Profile%20views&color=0e75b6&style=flat" alt="07subhadip" /> </p>
 
-<p align="left"> <a href="https://twitter.com/subha_hensh07" target="blank"><img src="https://img.shields.io/twitter/follow/subha_hensh07?logo=twitter&style=for-the-badge" alt="subha_hensh07" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/subha_hensh07" target="blank"><img src="https://img.shields.io/twitter/follow/subha_hensh07?logo=twitter&style=for-the-badge" alt="subha_hensh07" /></a> </p> -->
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [subhadiphensh31102000@gmail.com](mailto:subhadiphensh31102000@gmail.com)
