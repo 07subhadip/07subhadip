@@ -113,7 +113,7 @@ A <strong>self-taught Developer</strong> on a coding journey for the past 4 year
           <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
           Three.js<br>
           <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-            <img height="32px" src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg](https://github.com/07subhadip/07subhadip/blob/main/ThreeJS.svg)">
+            <img height="32px" src="https://github.com/07subhadip/07subhadip/raw/main/ThreeJS.svg">
           </a>
         </td>
         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
