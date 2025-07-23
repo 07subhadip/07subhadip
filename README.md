@@ -26,10 +26,30 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Aspiring Data Scientist | Passionate about Machine Learning, AI & Data Analytics
 ------------------------------------------------------------------------
-
-A <strong>self-taught Developer</strong> on a coding journey for the past 4 years, I’m always eager to learn new skills and bring innovative ideas to life. Though my professional career is just beginning, I’m dedicated to making a meaningful impact through technology.
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=07subhadip&label=Profile%20views&color=0e75b6&style=flat" alt="07subhadip" /> </p>
+
+I'm a passionate **Data Science & AI learner**, currently upskilling through the **iHUB Divya Sampark** program in collaboration with **IIT Roorkee** and **Microsoft**.
+
+I turn raw data into insights and ML models using **Python**, **Pandas**, **Scikit-learn**, **SQL** & **TensorFlow** — supported by strong **Data Visualization** and **Storytelling** to deliver clear outcomes.
+
+Beyond modeling, I’ve worked on **Data acquisition** through **APIs** and **Web Scraping**, and handled large-scale datasets using tools like **Google BigQuery**.
+
+My core interests include:
+- ✅ **The mathematics and statistics behind Machine Learning algorithms**
+- ✅ **Supervised & Unsupervised Machine Learning**
+- ✅ **Deep Learning & Neural Networks**
+- ✅ **Computer Vision (CV)**
+- ✅ **Natural Language Processing (NLP)**
+- ✅ **Generative AI (GANs, LLMs, etc.)**
+
+I’m deeply curious about how intelligent systems learn from data — from linear models to generative neural architectures.
+
+
+I believe in learning by doing — and I’m actively building projects that showcase my skills, creativity, and problem-solving mindset.
+
+My goal is to grow into a versatile **Data Professional** — whether it’s **analyzing trends**, **engineering pipelines**, or **building predictive models** — to solve real-world problems with data-driven solutions.
+
+
 
 <!-- <p align="left"> <a href="https://twitter.com/subha_hensh07" target="blank"><img src="https://img.shields.io/twitter/follow/subha_hensh07?logo=twitter&style=for-the-badge" alt="subha_hensh07" /></a> </p> -->
 
