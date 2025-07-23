@@ -24,7 +24,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Subhadip Hensh
 ======================================================================================================================================
 
-I am a Full Stack Developer driven to expand my skills and knowledge.
+Aspiring Data Scientist | Passionate about Machine Learning, AI & Data Analytics
 ------------------------------------------------------------------------
 
 A <strong>self-taught Developer</strong> on a coding journey for the past 4 years, I’m always eager to learn new skills and bring innovative ideas to life. Though my professional career is just beginning, I’m dedicated to making a meaningful impact through technology.
