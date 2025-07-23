@@ -52,17 +52,17 @@ I believe in learning by doing — and I’m actively building projects that sho
 
 
 <!-- <p align="left"> <a href="https://twitter.com/subha_hensh07" target="blank"><img src="https://img.shields.io/twitter/follow/subha_hensh07?logo=twitter&style=for-the-badge" alt="subha_hensh07" /></a> </p> -->
+<img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
+<br>
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [subhadiphensh31102000@gmail.com](mailto:subhadiphensh31102000@gmail.com)
-* 🧠  I'm learning Backend developement
-* ⚡  I'm an Anime Lover and I love to play Chess♟️in the free times
+📍 Based in **India**  
+📫 Reach me at: [subhadiphensh31102000@gmail.com](mailto:subhadiphensh31102000@gmail.com)  
+🧠 Currently learning: **Deep Learning**, **NLP**, and **Generative AI**  
+🎮 Fun fact: I love **Anime** and enjoy playing **Chess ♟️** in my free time
 
 <!-- <img align="right" src="https://github.com/07subhadip/07subhadip/blob/main/portrait-programmer-working-with-pc.png" width="400" height="400"> -->
 
 <!--- <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" height="300">-->
-
-<br>
 
 <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
 
