@@ -34,7 +34,7 @@ I turn raw data into insights and ML models using **Python**, **Pandas**, **Scik
 
 Beyond modeling, I’ve worked on **Data acquisition** through **APIs** and **Web Scraping**, and handled large-scale datasets using tools like **Google BigQuery**.
 
-My core interests include:
+### My core interests include:
 - ✅ **The mathematics and statistics behind Machine Learning algorithms**
 - ✅ **Supervised & Unsupervised Machine Learning**
 - ✅ **Deep Learning & Neural Networks**
@@ -47,7 +47,7 @@ I’m deeply curious about how intelligent systems learn from data — from line
 
 I believe in learning by doing — and I’m actively building projects that showcase my skills, creativity, and problem-solving mindset.
 
-My goal is to grow into a versatile **Data Professional** — whether it’s **analyzing trends**, **engineering pipelines**, or **building predictive models** — to solve real-world problems with data-driven solutions.
+🎯My goal is to grow into a versatile **Data Professional** — whether it’s **analyzing trends**, **engineering pipelines**, or **building predictive models** — to solve real-world problems with data-driven solutions.
 
 
 
