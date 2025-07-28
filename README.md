@@ -87,6 +87,10 @@ I believe in learning by doing — and I’m actively building projects that sho
           <img height="40px" src="https://github.com/07subhadip/Important-SVGs/blob/main/microsoft-sql-server-logo-svgrepo-com.svg">
         </td> 
         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Bash<br>
+          <img height="40px" src="https://github.com/07subhadip/Important-SVGs/blob/main/Bash.svg">
+        </td>
+        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
           C++<br>
           <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg">
         </td>
@@ -100,78 +104,42 @@ I believe in learning by doing — and I’m actively building projects that sho
  <br><br><br><br>
 </div>
 
-### Frontend Development
+### Data Engineering Tools
 
 <div style="display: flex;">
   <table align="left" width="360px" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent;">
     <tbody> 
       <tr> 
         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-          HTML5<br>
+          Apache Airflow<br>
           <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg">
+            <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/Apache%20Airflow.svg">
           </a>
         </td>
         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-          CSS3<br>
+          Google BigQuery<br>
           <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg">
+            <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/bigquery-svgrepo-com.svg">
           </a>
         </td>
         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-          TailwindCSS<br>
+          REST APIs<br>
           <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg">
+            <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/rest-api-svgrepo-com.svg">
           </a>
         </td> 
         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-          React<br>
+          FAST API<br>
           <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg">
+            <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/FastAPI.svg">
           </a>
         </td>
           <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-          Three.js<br>
+          Selenium<br>
           <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://github.com/07subhadip/07subhadip/raw/main/ThreeJS.svg">
+            <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/selenium-svgrepo-com.svg">
           </a>
-        </td>
-        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-          Redux<br>
-          <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-          </a>
-        </td>
-        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-          Next.js<br>
-          <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg">
-          </a>
-        </td>
-        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-          Angular<br>
-          <a href="https://angular.io/" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg">
-          </a>
-        </td>
-        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-          Bootstrap<br>
-          <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg">
-          </a>
-        </td>
-        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-          Sass<br>
-          <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg">
-          </a>
-        </td>
-        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-          Vite.js<br>
-          <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://github.com/07subhadip/07subhadip/blob/main/Vite.js.svg">
-          </a>
-        </td>
+          </td>
       </tr>
     </tbody>
   </table>
