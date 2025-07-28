@@ -83,8 +83,8 @@ I believe in learning by doing — and I’m actively building projects that sho
           <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg">
         </td>
         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-          Java<br>
-          <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg">
+          MS SQL<br>
+          <img height="40px" src="https://github.com/07subhadip/Important-SVGs/blob/main/microsoft-sql-server-logo-svgrepo-com.svg">
         </td> 
         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
           C++<br>
