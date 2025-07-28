@@ -75,12 +75,12 @@ I believe in learning by doing — and I’m actively building projects that sho
     <tbody> 
       <tr> 
         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-          JavaScript<br>
-          <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg">
-        </td>
-        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
           Python<br>
           <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg">
+        </td>
+        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          JavaScript<br>
+          <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg">
         </td>
         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
           Java<br>
