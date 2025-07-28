@@ -146,49 +146,52 @@ I believe in learning by doing — and I’m actively building projects that sho
  <br><br><br><br>
 </div>
 
-### Backend Development
-
-
-
+### Data Analysis Tools
 
 <div style="display: flex;">
   <table align="left" width="360px" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent;">
     <tbody> 
       <tr> 
         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-          Node.js<br>
+          Numpy<br>
           <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg">
+            <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/NumPy.svg">
           </a>
         </td>
         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-          Express<br>
+          Pandas<br>
           <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg">
+            <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/Pandas.svg">
           </a>
         </td>
         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-          MySQL<br>
+          Matplotlib<br>
           <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg">
+            <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/Matplotlib.svg">
           </a>
         </td> 
         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-          MongoDB<br>
+          Plotly<br>
           <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg">
+            <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/Ploty.svg">
           </a>
         </td>
         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-          Nodemon<br>
+          Scipy<br>
           <a href="https://nodemon.io/" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://github.com/07subhadip/07subhadip/blob/main/Nodemon.svg">
+            <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/scipy-seeklogo.svg">
           </a>
         </td>
         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-          npm<br>
+          Statmodels<br>
           <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://github.com/07subhadip/07subhadip/blob/main/NPM.svg">
+            <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/statsmodels-logo-v2-no-text.svg">
+          </a>
+        </td>
+          <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Excel<br>
+          <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/excel-svgrepo-com.svg">
           </a>
         </td>
       </tr>
