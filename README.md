@@ -259,7 +259,7 @@ I believe in learning by doing — and I’m actively building projects that sho
         <td width="70px" align="center" style="border: 1px solid transparent; padding: 8px;">
           MSSQL<br>
           <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" />
+            <img height="64px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" />
           </a>
         </td>
       </tr>
