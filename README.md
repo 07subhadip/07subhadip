@@ -380,7 +380,7 @@ I believe in learning by doing — and I’m actively building projects that sho
  <br><br><br><br><br>
 </div>
 
-### Badges
+<!-- ### Badges
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -398,6 +398,8 @@ I believe in learning by doing — and I’m actively building projects that sho
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+ -->
+
 
 <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
 
