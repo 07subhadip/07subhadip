@@ -190,6 +190,12 @@ I believe in learning by doing — and I’m actively building projects that sho
             <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/excel-svgrepo-com.svg">
           </a>
         </td>
+        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Power BI<br>
+          <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
+          </a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -399,7 +405,6 @@ I believe in learning by doing — and I’m actively building projects that sho
 ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
  -->
-
 
 <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
 
