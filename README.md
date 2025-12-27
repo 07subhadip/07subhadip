@@ -235,7 +235,7 @@ I believe in learning by doing — and I’m actively building projects that sho
 ### Databases
 
 <div style="display: flex;">
-  <table align="left" width="220px" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent;">
+  <table align="left" width="300px" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent;">
     <tbody>
       <tr>
         <td width="70px" align="center" style="border: 1px solid transparent; padding: 8px;">
@@ -254,6 +254,12 @@ I believe in learning by doing — and I’m actively building projects that sho
           MySQL<br>
           <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
             <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" />
+          </a>
+        </td>
+        <td width="70px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          MSSQL<br>
+          <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://raw.githubusercontent.com/07subhadip/Important-SVGs/main/microsoft-sql-server-logo-svgrepo-com.svg" alt="MSSQL" />
           </a>
         </td>
       </tr>
