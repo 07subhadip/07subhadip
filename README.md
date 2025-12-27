@@ -20,12 +20,10 @@
   </div>
 </div>
 
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Subhadip Hensh
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Subhadip Hensh
-======================================================================================================================================
+## Aspiring Data Scientist | Passionate about Machine Learning, AI & Data Analytics
 
-Aspiring Data Scientist | Passionate about Machine Learning, AI & Data Analytics
-------------------------------------------------------------------------
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=07subhadip&label=Profile%20views&color=0e75b6&style=flat" alt="07subhadip" /> </p>
 
 I'm a passionate **Data Science & AI learner**, currently upskilling through the **iHUB Divya Sampark** program in collaboration with **IIT Roorkee** and **Microsoft**.
@@ -35,6 +33,7 @@ I turn raw data into insights and ML models using **Python**, **Pandas**, **Scik
 Beyond modeling, I’ve worked on **Data acquisition** through **APIs** and **Web Scraping**, and handled large-scale datasets using tools like **Google BigQuery**.
 
 ### My core interests include:
+
 - ✅ **The mathematics and statistics behind Machine Learning algorithms**
 - ✅ **Supervised & Unsupervised Machine Learning**
 - ✅ **Deep Learning & Neural Networks**
@@ -44,12 +43,9 @@ Beyond modeling, I’ve worked on **Data acquisition** through **APIs** and **We
 
 I’m deeply curious about how intelligent systems learn from data — from linear models to generative neural architectures.
 
-
 I believe in learning by doing — and I’m actively building projects that showcase my skills, creativity, and problem-solving mindset.
 
 🎯My goal is to grow into a versatile **Data Professional** — whether it’s **analyzing trends**, **engineering pipelines**, or **building predictive models** — to solve real-world problems with data-driven solutions.
-
-
 
 <!-- <p align="left"> <a href="https://twitter.com/subha_hensh07" target="blank"><img src="https://img.shields.io/twitter/follow/subha_hensh07?logo=twitter&style=for-the-badge" alt="subha_hensh07" /></a> </p> -->
 <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
@@ -66,9 +62,7 @@ I believe in learning by doing — and I’m actively building projects that sho
 
 <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
 
-
 ### Programming Languages
-
 
 <div style="display: flex;">
   <table align="left" width="320px" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent;">
@@ -146,13 +140,9 @@ I believe in learning by doing — and I’m actively building projects that sho
  <br><br><br><br>
 </div>
 
-
 <br>
 
-
 ### Data Analysis Tools
-
-
 
 <div style="display: flex;">
   <table align="left" width="360px" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent;">
@@ -238,7 +228,6 @@ I believe in learning by doing — and I’m actively building projects that sho
 
 ### Databases
 
-
 <div style="display: flex;">
   <table align="left" width="220px" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent;">
     <tbody>
@@ -268,8 +257,6 @@ I believe in learning by doing — and I’m actively building projects that sho
 </div>
 
 ### Version Control
-
-
 
 <div style="display: flex;">
   <table align="left" width="220px" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent;">
@@ -305,7 +292,6 @@ I believe in learning by doing — and I’m actively building projects that sho
 
 ### IDEs & Editors
 
-
 <div style="display: flex;">
   <table align="left" width="220px" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent;">
     <tbody>
@@ -340,10 +326,7 @@ I believe in learning by doing — and I’m actively building projects that sho
  <br><br><br><br><br><br><br>
 </div>
 
-
 ### Other Tools & Technologies
-
-
 
 <div style="display: flex;">
   <table align="left" width="420px" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent;">
@@ -428,8 +411,6 @@ I believe in learning by doing — and I’m actively building projects that sho
 
 <b>My GitHub Stats</b>
 
-
-
 <a href="http://www.github.com/07subhadip"><img src="https://github-readme-stats.vercel.app/api?username=07subhadip&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="07subhadip's GitHub stats" /></a>
 
 <a href="http://www.github.com/07subhadip"><img src="https://github-readme-streak-stats.herokuapp.com/?user=07subhadip&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
@@ -443,8 +424,6 @@ I believe in learning by doing — and I’m actively building projects that sho
   </a>
 
 </div>
-
-
 
 <br><br><br>
 
@@ -501,4 +480,3 @@ I believe in learning by doing — and I’m actively building projects that sho
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="30" />
   </a>
 </p>
-
