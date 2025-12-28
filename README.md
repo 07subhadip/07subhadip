@@ -204,25 +204,25 @@ I believe in learning by doing — and I’m actively building projects that sho
 ### GenAI Tools
 
 <div style="display: flex;">
-  <table align="left" width="800px" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent;">
+  <table align="left" width="600px" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent;">
     <tbody>
       <tr>
-        <td width="250px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        <td width="200px" align="center" style="border: 1px solid transparent; padding: 8px;">
           LangChain<br>
           <a href="https://langchain.com/" target="_blank" rel="noreferrer">
-            <img height="200px" src="./LangChain.svg" alt="LangChain" />
+            <img height="128px" src="./LangChain.svg" alt="LangChain" />
           </a>
         </td>
-        <td width="250px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        <td width="200px" align="center" style="border: 1px solid transparent; padding: 8px;">
           LangGraph<br>
           <a href="https://langchain-ai.github.io/langgraph/" target="_blank" rel="noreferrer">
-            <img height="200px" src="./LangGraph.svg" alt="LangGraph" />
+            <img height="128px" src="./LangGraph.svg" alt="LangGraph" />
           </a>
         </td>
-        <td width="250px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        <td width="200px" align="center" style="border: 1px solid transparent; padding: 8px;">
           MCP<br>
           <a href="https://modelcontextprotocol.io/" target="_blank" rel="noreferrer">
-             <img height="200px" src="https://raw.githubusercontent.com/modelcontextprotocol/modelcontextprotocol/main/docs/logo/dark.svg" alt="Model Context Protocol" />
+             <img height="128px" src="https://raw.githubusercontent.com/modelcontextprotocol/modelcontextprotocol/main/docs/logo/dark.svg" alt="Model Context Protocol" />
           </a>
         </td>
       </tr>
