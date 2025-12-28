@@ -489,13 +489,10 @@ I believe in learning by doing — and I’m actively building projects that sho
 
 
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=07subhadip&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-  </a>
-
+![Github Trophies](https://github-trophies.vercel.app/?username=07subhadip&theme=discord)
 </div>
 
-<br><br><br>
+<br>
 
 <p align="center">
   <strong>Connect With Me</strong>
