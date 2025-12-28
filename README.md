@@ -423,17 +423,21 @@ I believe in learning by doing — and I’m actively building projects that sho
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/07subhadip"><img src="https://github-readme-stats.vercel.app/api?username=07subhadip&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="07subhadip's GitHub stats" /></a>
+<a href="http://www.github.com/07subhadip"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=07subhadip&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="07subhadip's GitHub stats" /></a>
 
+<!-- Streak Stats (Service Unstable)
 <a href="http://www.github.com/07subhadip"><img src="https://streak-stats.demolab.com/?user=07subhadip&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+-->
 
-<a href="https://github.com/07subhadip" align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=07subhadip&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+<a href="https://github.com/07subhadip" align="center" ><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=07subhadip&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
 
 <!--<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=07subhadip" alt="07subhadip" /></a> </p>-->
 
+<!-- Trophies (Service Unavailable)
 <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=07subhadip&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
   </a>
+-->
 
 </div>
 
