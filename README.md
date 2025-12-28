@@ -477,19 +477,19 @@ I believe in learning by doing — and I’m actively building projects that sho
 
 </div>
 
-<!-- ### Trophies & Streak Stats -->
+<h3 align="center">Trophies & Streak Stats</h3>
 
 <div align="center">
 
-<!-- Streak Stats (Service Unstable: streak-stats.demolab.com)
+Streak Stats (Service Unstable: streak-stats.demolab.com)
 <a href="http://www.github.com/07subhadip"><img src="https://streak-stats.demolab.com/?user=07subhadip&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
--->
 
-<!-- Trophies (Service Unavailable: github-profile-trophy.vercel.app)
+
+Trophies (Service Unavailable: github-profile-trophy.vercel.app)
 <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=07subhadip&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
   </a>
--->
+
 
 </div>
 
