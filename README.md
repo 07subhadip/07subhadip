@@ -473,6 +473,8 @@ I believe in learning by doing — and I’m actively building projects that sho
 
 <a href="http://www.github.com/07subhadip"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=07subhadip&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="07subhadip's GitHub stats" /></a>
 
+<a href="http://www.github.com/07subhadip"><img src="https://streak-stats.demolab.com/?user=07subhadip&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 <a href="https://github.com/07subhadip" align="center" ><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=07subhadip&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
 
 </div>
@@ -481,16 +483,15 @@ I believe in learning by doing — and I’m actively building projects that sho
 
 <div align="center">
 
-<a href="https://leetcode.com/u/subhadip_hensh/"><img src="https://leetcard.jacoblin.cool/subhadip_hensh?theme=dark&font=Syne%20Mono&ext=heatmap" alt="LeetCode Stats" /></a>
+![LeetCode Stats](https://leetcard.jacoblin.cool/Subhadip_Hensh?ext=contest)
 
-<!-- Streak Stats (Service Unstable: streak-stats.demolab.com)
-<a href="http://www.github.com/07subhadip"><img src="https://streak-stats.demolab.com/?user=07subhadip&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+[![GeeksForGeeks stats](https://gfgstatscard.vercel.app/07subhadip)](https://www.geeksforgeeks.org/user/07subhadip/)
 
 
-Trophies (Service Unavailable: github-profile-trophy.vercel.app)
+
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=07subhadip&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-  </a> -->
+    <img src="https://github-profile-trophy.vercel.app/?username=07subhadip&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  </a>
 
 </div>
 
