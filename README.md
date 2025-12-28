@@ -24,17 +24,17 @@
 ## Aspiring Data Scientist | Passionate about Machine Learning, AI & Data Analytics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Scientist-0e75b6?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-5C5C5C?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Scientist-0077cd?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-1a5220?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-b71c1c?style=for-the-badge&logo=opencv&logoColor=white&labelColor=000000" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-%F0%9F%98%8E%20awesome-d18bba?style=flat-square" />
-  <img src="https://img.shields.io/badge/-%E2%9C%A8%20Data%20Wizard-0e75b6?style=flat-square" />
-  <img src="https://img.shields.io/badge/-%F0%9F%9A%80%20Anime%20Fan-ff69b4?style=flat-square" />
-  <img src="https://img.shields.io/badge/-%E2%98%95%20Powered%20By%20Coffee-6f4e37?style=flat-square" />
+  <img src="https://img.shields.io/badge/Current%20Vibe-Awesome-0077cd?style=flat-square&logo=appveyor&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Super%20Power-Data%20Wizard-7952b3?style=flat-square&logo=google-wizard&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Fun%20Fact-Anime%20Fan-b71c1c?style=flat-square&logo=myanimelist&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Fueled%20By-Coffee-1a5220?style=flat-square&logo=buymeacoffee&logoColor=white&labelColor=000000" />
 </p>
 
 <p align="center">
