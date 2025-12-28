@@ -467,7 +467,7 @@ I believe in learning by doing — and I’m actively building projects that sho
 
 <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
 
-### GitHub Stats
+<h3 align="center">GitHub Stats</h3>
 
 <div align="center">
 
@@ -477,7 +477,7 @@ I believe in learning by doing — and I’m actively building projects that sho
 
 </div>
 
-### Trophies & Streak Stats
+<!-- ### Trophies & Streak Stats -->
 
 <div align="center">
 
