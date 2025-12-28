@@ -210,19 +210,19 @@ I believe in learning by doing — and I’m actively building projects that sho
         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
           LangChain<br>
           <a href="https://langchain.com/" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/LangChain_Logo.svg" alt="LangChain" />
+            <img height="32px" src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/langchain-color.svg" alt="LangChain" />
           </a>
         </td>
         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
           LangGraph<br>
           <a href="https://langchain-ai.github.io/langgraph/" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/LangChain_Logo.svg" alt="LangGraph" />
+            <img height="32px" src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/langgraph-color.svg" alt="LangGraph" />
           </a>
         </td>
         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
           MCP<br>
           <a href="https://modelcontextprotocol.io/" target="_blank" rel="noreferrer">
-             <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Model_Context_Protocol_logo.svg" alt="Model Context Protocol" />
+             <img height="32px" src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/mcp.svg" alt="Model Context Protocol" />
           </a>
         </td>
       </tr>
