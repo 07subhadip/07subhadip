@@ -201,6 +201,36 @@ I believe in learning by doing — and I’m actively building projects that sho
  <br><br><br><br>
 </div>
 
+### GenAI Tools
+
+<div style="display: flex;">
+  <table align="left" width="300px" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent;">
+    <tbody>
+      <tr>
+        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          LangChain<br>
+          <a href="https://langchain.com/" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/LangChain_Logo.svg" alt="LangChain" />
+          </a>
+        </td>
+        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          LangGraph<br>
+          <a href="https://langchain-ai.github.io/langgraph/" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/LangChain_Logo.svg" alt="LangGraph" />
+          </a>
+        </td>
+        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          MCP<br>
+          <a href="https://modelcontextprotocol.io/" target="_blank" rel="noreferrer">
+             <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Model_Context_Protocol_logo.svg" alt="Model Context Protocol" />
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+ <br><br><br><br>
+</div>
+
 ### Operating Systems
 
 <div style="display: flex;">
@@ -303,7 +333,7 @@ I believe in learning by doing — and I’m actively building projects that sho
 ### IDEs & Editors
 
 <div style="display: flex;">
-  <table align="left" width="220px" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent;">
+  <table align="left" width="370px" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent;">
     <tbody>
       <tr>
         <td width="70px" align="center" style="border: 1px solid transparent; padding: 8px;">
@@ -328,6 +358,12 @@ I believe in learning by doing — and I’m actively building projects that sho
           IntelliJ IDEA<br>
           <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
             <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA" />
+          </a>
+        </td>
+        <td width="70px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Antigravity IDE<br>
+          <a href="https://deepmind.google/technologies/gemini/" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" alt="Antigravity IDE" />
           </a>
         </td>
       </tr>
