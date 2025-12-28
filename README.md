@@ -210,13 +210,13 @@ I believe in learning by doing — and I’m actively building projects that sho
         <td width="250px" align="center" style="border: 1px solid transparent; padding: 8px;">
           LangChain<br>
           <a href="https://langchain.com/" target="_blank" rel="noreferrer">
-            <img height="200px" src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/langchain-color.svg" alt="LangChain" />
+            <img height="200px" src="https://github.com/07subhadip/07subhadip/blob/main/LangChain.svg" alt="LangChain" />
           </a>
         </td>
         <td width="250px" align="center" style="border: 1px solid transparent; padding: 8px;">
           LangGraph<br>
           <a href="https://langchain-ai.github.io/langgraph/" target="_blank" rel="noreferrer">
-            <img height="200px" src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/langgraph-color.svg" alt="LangGraph" />
+            <img height="200px" src="https://github.com/07subhadip/07subhadip/blob/main/LangGraph.svg" alt="LangGraph" />
           </a>
         </td>
         <td width="250px" align="center" style="border: 1px solid transparent; padding: 8px;">
