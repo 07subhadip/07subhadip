@@ -3,7 +3,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" width="1400" height="400">
 
 <div style="width: 100%; overflow-x: auto; text-align: center;">
-<div style="width: 100%; overflow-x: auto; text-align: center;">
     <div align="center" style="display: inline-block; margin-right: 1px; overflow: hidden;">
         <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
         <img width="30px" height="40px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64">
@@ -413,27 +412,25 @@ I believe in learning by doing — and I’m actively building projects that sho
 
 <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
 
-<div align= "center">
+### GitHub Stats
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Subhadip_Hensh?ext=contest)
-
-<!--[![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=subhadiphensh31102000)](https://auth.geeksforgeeks.org/user/subhadiphensh31102000/practice/) -->
-
-[![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=07subhadip)](https://www.geeksforgeeks.org/user/07subhadip/)
-
-<b>My GitHub Stats</b>
+<div align="center">
 
 <a href="http://www.github.com/07subhadip"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=07subhadip&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="07subhadip's GitHub stats" /></a>
 
-<!-- Streak Stats (Service Unstable)
+<a href="https://github.com/07subhadip" align="center" ><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=07subhadip&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+
+</div>
+
+### Trophies & Streak Stats
+
+<div align="center">
+
+<!-- Streak Stats (Service Unstable: streak-stats.demolab.com)
 <a href="http://www.github.com/07subhadip"><img src="https://streak-stats.demolab.com/?user=07subhadip&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 -->
 
-<a href="https://github.com/07subhadip" align="center" ><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=07subhadip&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
-
-<!--<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=07subhadip" alt="07subhadip" /></a> </p>-->
-
-<!-- Trophies (Service Unavailable)
+<!-- Trophies (Service Unavailable: github-profile-trophy.vercel.app)
 <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=07subhadip&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
   </a>
