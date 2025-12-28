@@ -24,6 +24,20 @@
 ## Aspiring Data Scientist | Passionate about Machine Learning, AI & Data Analytics
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Data%20Scientist-0e75b6?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C5C5C?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-%F0%9F%98%8E%20awesome-d18bba?style=flat-square" />
+  <img src="https://img.shields.io/badge/-%E2%9C%A8%20Data%20Wizard-0e75b6?style=flat-square" />
+  <img src="https://img.shields.io/badge/-%F0%9F%9A%80%20Anime%20Fan-ff69b4?style=flat-square" />
+  <img src="https://img.shields.io/badge/-%E2%98%95%20Powered%20By%20Coffee-6f4e37?style=flat-square" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=07subhadip&label=Profile%20views&color=0e75b6&style=flat" alt="07subhadip" />
   <a href="https://github.com/07subhadip/07subhadip/fork"><img src="https://img.shields.io/github/forks/07subhadip/07subhadip?style=social" alt="Forks"></a>
   <a href="https://github.com/07subhadip/07subhadip/stargazers"><img src="https://img.shields.io/github/stars/07subhadip/07subhadip?style=social" alt="Stars"></a>
