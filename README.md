@@ -23,7 +23,12 @@
 
 ## Aspiring Data Scientist | Passionate about Machine Learning, AI & Data Analytics
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=07subhadip&label=Profile%20views&color=0e75b6&style=flat" alt="07subhadip" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=07subhadip&label=Profile%20views&color=0e75b6&style=flat" alt="07subhadip" />
+  <a href="https://github.com/07subhadip/07subhadip/fork"><img src="https://img.shields.io/github/forks/07subhadip/07subhadip?style=social" alt="Forks"></a>
+  <a href="https://github.com/07subhadip/07subhadip/stargazers"><img src="https://img.shields.io/github/stars/07subhadip/07subhadip?style=social" alt="Stars"></a>
+  <a href="https://github.com/07subhadip/07subhadip/watchers"><img src="https://img.shields.io/github/watchers/07subhadip/07subhadip?style=social" alt="Watchers"></a>
+</p>
 
 I'm a passionate **Data Science & AI learner**, currently upskilling through the **iHUB Divya Sampark** program in collaboration with **IIT Roorkee** and **Microsoft**.
 
