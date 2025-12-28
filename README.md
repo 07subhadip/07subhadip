@@ -227,19 +227,19 @@ I believe in learning by doing — and I’m actively building projects that sho
     <tbody>
       <tr>
         <td width="150px" align="center" style="border: 1px solid transparent; padding: 8px;">
-          LangChain<br>
+          LangChain<br><br>
           <a href="https://langchain.com/" target="_blank" rel="noreferrer">
             <img height="96px" src="./LangChain.svg" alt="LangChain" />
           </a>
         </td>
         <td width="150px" align="center" style="border: 1px solid transparent; padding: 8px;">
-          LangGraph<br>
+          LangGraph<br><br>
           <a href="https://langchain-ai.github.io/langgraph/" target="_blank" rel="noreferrer">
             <img height="96px" src="./LangGraph.svg" alt="LangGraph" />
           </a>
         </td>
         <td width="150px" align="center" style="border: 1px solid transparent; padding: 8px;">
-          MCP<br>
+          MCP<br><br>
           <a href="https://modelcontextprotocol.io/" target="_blank" rel="noreferrer">
              <img height="96px" src="https://raw.githubusercontent.com/modelcontextprotocol/modelcontextprotocol/main/docs/logo/dark.svg" alt="Model Context Protocol" />
           </a>
