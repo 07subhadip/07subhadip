@@ -419,7 +419,7 @@ I believe in learning by doing — and I’m actively building projects that sho
 
 <!--[![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=subhadiphensh31102000)](https://auth.geeksforgeeks.org/user/subhadiphensh31102000/practice/) -->
 
-[![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=subhadiphensh31102000)](https://www.geeksforgeeks.org/user/subhadiphensh31102000/)
+[![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=07subhadip)](https://www.geeksforgeeks.org/user/07subhadip/)
 
 <b>My GitHub Stats</b>
 
