@@ -92,8 +92,7 @@ I believe in learning by doing — and I'm actively building projects that showc
 <!-- <p align="left"> <a href="https://twitter.com/subha_hensh07" target="blank"><img src="https://img.shields.io/twitter/follow/subha_hensh07?logo=twitter&style=for-the-badge" alt="subha_hensh07" /></a> </p> -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
-  <!-- Replace with dark version for light mode if available -->
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
   <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
 </picture>
 <br>
@@ -131,9 +130,9 @@ I believe in learning by doing — and I'm actively building projects that showc
         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
           MS SQL<br>
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/Important-SVGs/blob/main/microsoft-sql-server-logo-svgrepo-com.svg">
-            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/microsoftsqlserver">
-            <img height="40px" src="https://github.com/07subhadip/Important-SVGs/blob/main/microsoft-sql-server-logo-svgrepo-com.svg">
+            <source media="(prefers-color-scheme: dark)" srcset="./MSSQL.svg">
+            <source media="(prefers-color-scheme: light)" srcset="./MSSQL-light.svg">
+            <img height="40px" src="./MSSQL.svg">
           </picture>
         </td> 
         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
@@ -309,6 +308,7 @@ I believe in learning by doing — and I'm actively building projects that showc
   </table>
  <br><br><br><br>
 </div>
+<div style="clear:both;"></div>
 
 ### GenAI Tools
 
@@ -351,6 +351,7 @@ I believe in learning by doing — and I'm actively building projects that showc
   </table>
  <br><br><br><br>
 </div>
+<div style="clear:both;"></div>
 
 <br>
 <br>
@@ -396,6 +397,7 @@ I believe in learning by doing — and I'm actively building projects that showc
   </table>
  <br><br><br><br><br>
 </div>
+<div style="clear:both;"></div>
 
 ### Databases
 
@@ -439,6 +441,7 @@ I believe in learning by doing — and I'm actively building projects that showc
   </table>
  <br><br><br><br>
 </div>
+<div style="clear:both;"></div>
 
 ### Version Control
 
@@ -477,6 +480,7 @@ I believe in learning by doing — and I'm actively building projects that showc
   </table>
  <br><br><br><br><br>
 </div>
+<div style="clear:both;"></div>
 
 ### IDEs & Editors
 
@@ -523,6 +527,7 @@ I believe in learning by doing — and I'm actively building projects that showc
   </table>
  <br><br><br><br><br><br><br>
 </div>
+<div style="clear:both;"></div>
 
 ### Other Tools & Technologies
 
@@ -581,6 +586,7 @@ I believe in learning by doing — and I'm actively building projects that showc
   </table>
  <br><br><br><br><br>
 </div>
+<div style="clear:both;"></div>
 
 <!-- ### Badges
 
@@ -604,8 +610,7 @@ I believe in learning by doing — and I'm actively building projects that showc
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
-  <!-- Replace with dark version for light mode if available -->
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
   <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
 </picture>
 
