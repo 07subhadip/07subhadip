@@ -169,7 +169,7 @@ I believe in learning by doing — and I'm actively building projects that showc
           <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
             <picture>
               <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/Important-SVGs/blob/main/Apache%20Airflow.svg">
-              <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/apacheairflow">
+              <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png">
               <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/Apache%20Airflow.svg">
             </picture>
           </a>
@@ -283,7 +283,7 @@ I believe in learning by doing — and I'm actively building projects that showc
           <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
             <picture>
               <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/Important-SVGs/blob/main/statsmodels-logo-v2-no-text.svg">
-              <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/statsmodels/statsmodels/main/docs/logos/statsmodels-logo-v2.svg">
+              <source media="(prefers-color-scheme: light)" srcset="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg">
               <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/statsmodels-logo-v2-no-text.svg">
             </picture>
           </a>
@@ -293,7 +293,7 @@ I believe in learning by doing — and I'm actively building projects that showc
           <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
             <picture>
               <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/Important-SVGs/blob/main/excel-svgrepo-com.svg">
-              <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg">
+              <source media="(prefers-color-scheme: light)" srcset="https://img.icons8.com/fluency/48/microsoft-excel-2019.png">
               <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/excel-svgrepo-com.svg">
             </picture>
           </a>
@@ -321,8 +321,7 @@ I believe in learning by doing — and I'm actively building projects that showc
           <a href="https://langchain.com/" target="_blank" rel="noreferrer">
             <picture>
               <source media="(prefers-color-scheme: dark)" srcset="./LangChain.svg">
-              <source media="(prefers-color-scheme: light)" srcset="./LangChain.svg">
-              <!-- Replace with dark version for light mode if available -->
+              <source media="(prefers-color-scheme: light)" srcset="./LangChain-light.svg">
               <img height="96px" src="./LangChain.svg" alt="LangChain" />
             </picture>
           </a>
@@ -332,8 +331,7 @@ I believe in learning by doing — and I'm actively building projects that showc
           <a href="https://langchain-ai.github.io/langgraph/" target="_blank" rel="noreferrer">
             <picture>
               <source media="(prefers-color-scheme: dark)" srcset="./LangGraph.svg">
-              <source media="(prefers-color-scheme: light)" srcset="./LangGraph.svg">
-              <!-- Replace with dark version for light mode if available -->
+              <source media="(prefers-color-scheme: light)" srcset="./LangGraph-light.svg">
               <img height="96px" src="./LangGraph.svg" alt="LangGraph" />
             </picture>
           </a>
@@ -353,6 +351,9 @@ I believe in learning by doing — and I'm actively building projects that showc
   </table>
  <br><br><br><br>
 </div>
+
+<br>
+<br>
 
 ### Operating Systems
 
@@ -412,9 +413,9 @@ I believe in learning by doing — and I'm actively building projects that showc
           Oracle<br>
           <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer">
             <picture>
-              <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/07subhadip/blob/main/Oracle.svg">
-              <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/oracle">
-              <img height="32px" src="https://github.com/07subhadip/07subhadip/blob/main/Oracle.svg" alt="Oracle" />
+              <source media="(prefers-color-scheme: dark)" srcset="./Oracle.svg">
+              <source media="(prefers-color-scheme: light)" srcset="./Oracle.svg">
+              <img height="32px" src="./Oracle.svg" alt="Oracle" />
             </picture>
           </a>
         </td>
@@ -429,7 +430,7 @@ I believe in learning by doing — and I'm actively building projects that showc
           <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
             <picture>
               <source media="(prefers-color-scheme: dark)" srcset="./MSSQL.svg">
-              <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/microsoftsqlserver">
+              <source media="(prefers-color-scheme: light)" srcset="./MSSQL-light.svg">
               <img height="64px" src="./MSSQL.svg">
             </picture>
         </td>
@@ -512,7 +513,7 @@ I believe in learning by doing — and I'm actively building projects that showc
           <a href="https://deepmind.google/technologies/gemini/" target="_blank" rel="noreferrer">
             <picture>
               <source media="(prefers-color-scheme: dark)" srcset="./Antigravity-IDE.svg">
-              <source media="(prefers-color-scheme: light)" srcset="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg">
+              <source media="(prefers-color-scheme: light)" srcset="./Antigravity-IDE.svg">
               <img height="32px" src="./Antigravity-IDE.svg" alt="Antigravity IDE" />
             </picture>
           </a>
@@ -612,11 +613,23 @@ I believe in learning by doing — and I'm actively building projects that showc
 
 <div align="center">
 
-<a href="http://www.github.com/07subhadip"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=07subhadip&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="07subhadip's GitHub stats" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=07subhadip&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=07subhadip&show_icons=true&count_private=true&title_color=0891b2&text_color=24292f&icon_color=0891b2&bg_color=ffffff&hide_border=true">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=07subhadip&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="07subhadip's GitHub stats" />
+</picture>
 
-<a href="http://www.github.com/07subhadip"><img src="https://streak-stats.demolab.com/?user=07subhadip&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=07subhadip&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=07subhadip&stroke=000000&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true">
+  <img src="https://streak-stats.demolab.com/?user=07subhadip&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</picture>
 
-<a href="https://github.com/07subhadip" align="center" ><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=07subhadip&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=07subhadip&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=07subhadip&langs_count=10&title_color=0891b2&text_color=24292f&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20Languages">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=07subhadip&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+</picture>
 
 </div>
 
