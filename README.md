@@ -322,7 +322,7 @@ I believe in learning by doing — and I'm actively building projects that showc
             <picture>
               <source media="(prefers-color-scheme: dark)" srcset="./LangChain.svg">
               <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/langchain/1C3C3C">
-              <img height="96px" src="./LangChain.svg" alt="LangChain" />
+              <img height="64px" src="./LangChain.svg" alt="LangChain" />
             </picture>
           </a>
         </td>
@@ -331,8 +331,8 @@ I believe in learning by doing — and I'm actively building projects that showc
           <a href="https://langchain-ai.github.io/langgraph/" target="_blank" rel="noreferrer">
             <picture>
               <source media="(prefers-color-scheme: dark)" srcset="./LangGraph.svg">
-              <source media="(prefers-color-scheme: light)" srcset="./LangGraph-light.svg">
-              <img height="96px" src="./LangGraph.svg" alt="LangGraph" />
+              <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/langgraph/1C3C3C">
+              <img height="64px" src="./LangGraph.svg" alt="LangGraph" />
             </picture>
           </a>
         </td>
@@ -341,8 +341,8 @@ I believe in learning by doing — and I'm actively building projects that showc
           <a href="https://modelcontextprotocol.io/" target="_blank" rel="noreferrer">
             <picture>
               <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modelcontextprotocol/modelcontextprotocol/main/docs/logo/dark.svg">
-              <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/modelcontextprotocol/modelcontextprotocol/main/docs/logo/light.svg">
-              <img height="96px" src="https://raw.githubusercontent.com/modelcontextprotocol/modelcontextprotocol/main/docs/logo/dark.svg" alt="Model Context Protocol" />
+              <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/modelcontextprotocol/1C3C3C">
+              <img height="64px" src="https://raw.githubusercontent.com/modelcontextprotocol/modelcontextprotocol/main/docs/logo/dark.svg" alt="Model Context Protocol" />
             </picture>
           </a>
         </td>
