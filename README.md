@@ -321,7 +321,7 @@ I believe in learning by doing — and I'm actively building projects that showc
           <a href="https://langchain.com/" target="_blank" rel="noreferrer">
             <picture>
               <source media="(prefers-color-scheme: dark)" srcset="./LangChain.svg">
-              <source media="(prefers-color-scheme: light)" srcset="./LangChain-light.svg">
+              <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/langchain/1C3C3C">
               <img height="96px" src="./LangChain.svg" alt="LangChain" />
             </picture>
           </a>
@@ -351,10 +351,8 @@ I believe in learning by doing — and I'm actively building projects that showc
   </table>
  <br><br><br><br>
 </div>
-<div style="clear:both;"></div>
-
-<br>
-<br>
+<br clear="all">
+<br><br>
 
 ### Operating Systems
 
@@ -442,6 +440,7 @@ I believe in learning by doing — and I'm actively building projects that showc
  <br><br><br><br>
 </div>
 <div style="clear:both;"></div>
+<br><br>
 
 ### Version Control
 
