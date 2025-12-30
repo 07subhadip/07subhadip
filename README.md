@@ -43,6 +43,12 @@
   </div>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+  <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
+</picture>
+
 # Hi <picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"><source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"><!-- Replace with dark version for light mode if available --><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"></picture>My name is Subhadip Hensh
 
 ## Aspiring Data Scientist | Passionate about Machine Learning, AI & Data Analytics
@@ -651,6 +657,12 @@ I believe in learning by doing — and I'm actively building projects that showc
 </div>
 
 <br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+  <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
+</picture>
 
 <p align="center">
   <strong>Connect With Me</strong>
