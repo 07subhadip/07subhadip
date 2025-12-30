@@ -1,13 +1,37 @@
 <!--![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)-->
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" width="1400" height="400">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+  <!-- Replace with light mode GIF if available -->
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" width="1400" height="400">
+</picture>
 
 <div style="width: 100%; overflow-x: auto; text-align: center;">
     <div align="center" style="display: inline-block; margin-right: 1px; overflow: hidden;">
-        <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
-        <img width="30px" height="40px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64">
-        <img valign="center" src="https://user-images.githubusercontent.com/72058182/196829939-db203b0e-3eab-4351-a864-8105c455573a.png" width="89%" height="auto">
-        <img width="30px" height="40px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64"><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+  <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
+</picture>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mel-iza/Mel-Iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64">
+          <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mel-iza/Mel-Iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64">
+          <!-- Replace with dark version for light mode if available -->
+          <img width="30px" height="40px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64">
+        </picture>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/72058182/196829939-db203b0e-3eab-4351-a864-8105c455573a.png">
+          <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/72058182/196829939-db203b0e-3eab-4351-a864-8105c455573a.png">
+          <!-- Replace with dark version for light mode if available -->
+          <img valign="center" src="https://user-images.githubusercontent.com/72058182/196829939-db203b0e-3eab-4351-a864-8105c455573a.png" width="89%" height="auto">
+        </picture>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mel-iza/Mel-Iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64">
+          <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mel-iza/Mel-Iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64">
+          <!-- Replace with dark version for light mode if available -->
+          <img width="30px" height="40px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64">
+        </picture><br>
     </div>
 </div>
 
@@ -19,7 +43,7 @@
   </div>
 </div>
 
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Subhadip Hensh
+# Hi <picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"><source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"><!-- Replace with dark version for light mode if available --><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"></picture>My name is Subhadip Hensh
 
 ## Aspiring Data Scientist | Passionate about Machine Learning, AI & Data Analytics
 
@@ -48,7 +72,7 @@ I'm a passionate **Data Science & AI learner**, currently upskilling through the
 
 I turn raw data into insights and ML models using **Python**, **Pandas**, **Scikit-learn**, **SQL** & **TensorFlow** — supported by strong **Data Visualization** and **Storytelling** to deliver clear outcomes.
 
-Beyond modeling, I’ve worked on **Data acquisition** through **APIs** and **Web Scraping**, and handled large-scale datasets using tools like **Google BigQuery**.
+Beyond modeling, I've worked on **Data acquisition** through **APIs** and **Web Scraping**, and handled large-scale datasets using tools like **Google BigQuery**.
 
 ### My core interests include:
 
@@ -59,14 +83,19 @@ Beyond modeling, I’ve worked on **Data acquisition** through **APIs** and **We
 - ✅ **Natural Language Processing (NLP)**
 - ✅ **Generative AI (GANs, LLMs, etc.)**
 
-I’m deeply curious about how intelligent systems learn from data — from linear models to generative neural architectures.
+I'm deeply curious about how intelligent systems learn from data — from linear models to generative neural architectures.
 
-I believe in learning by doing — and I’m actively building projects that showcase my skills, creativity, and problem-solving mindset.
+I believe in learning by doing — and I'm actively building projects that showcase my skills, creativity, and problem-solving mindset.
 
-🎯My goal is to grow into a versatile **Data Professional** — whether it’s **analyzing trends**, **engineering pipelines**, or **building predictive models** — to solve real-world problems with data-driven solutions.
+🎯My goal is to grow into a versatile **Data Professional** — whether it's **analyzing trends**, **engineering pipelines**, or **building predictive models** — to solve real-world problems with data-driven solutions.
 
 <!-- <p align="left"> <a href="https://twitter.com/subha_hensh07" target="blank"><img src="https://img.shields.io/twitter/follow/subha_hensh07?logo=twitter&style=for-the-badge" alt="subha_hensh07" /></a> </p> -->
-<img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
+  <!-- Replace with dark version for light mode if available -->
+  <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
+</picture>
 <br>
 
 📍 Based in **India**  
@@ -78,7 +107,12 @@ I believe in learning by doing — and I’m actively building projects that sho
 
 <!--- <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" height="300">-->
 
-<img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
+  <!-- Replace with dark version for light mode if available -->
+  <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
+</picture>
 
 ### Programming Languages
 
@@ -96,11 +130,19 @@ I believe in learning by doing — and I’m actively building projects that sho
         </td>
         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
           MS SQL<br>
-          <img height="40px" src="https://github.com/07subhadip/Important-SVGs/blob/main/microsoft-sql-server-logo-svgrepo-com.svg">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/Important-SVGs/blob/main/microsoft-sql-server-logo-svgrepo-com.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/microsoftsqlserver">
+            <img height="40px" src="https://github.com/07subhadip/Important-SVGs/blob/main/microsoft-sql-server-logo-svgrepo-com.svg">
+          </picture>
         </td> 
         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
           Bash<br>
-          <img height="40px" src="https://github.com/07subhadip/Important-SVGs/blob/main/Bash.svg">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/Important-SVGs/blob/main/Bash.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gnubash">
+            <img height="40px" src="https://github.com/07subhadip/Important-SVGs/blob/main/Bash.svg">
+          </picture>
         </td>
         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
           C++<br>
@@ -125,31 +167,51 @@ I believe in learning by doing — and I’m actively building projects that sho
         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
           Apache Airflow<br>
           <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/Apache%20Airflow.svg">
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/Important-SVGs/blob/main/Apache%20Airflow.svg">
+              <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/apacheairflow">
+              <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/Apache%20Airflow.svg">
+            </picture>
           </a>
         </td>
         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
           Google BigQuery<br>
           <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/bigquery-svgrepo-com.svg">
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/Important-SVGs/blob/main/bigquery-svgrepo-com.svg">
+              <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/googlebigquery">
+              <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/bigquery-svgrepo-com.svg">
+            </picture>
           </a>
         </td>
         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
           REST APIs<br>
           <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/rest-api-svgrepo-com.svg">
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/Important-SVGs/blob/main/rest-api-svgrepo-com.svg">
+              <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/swagger/222222">
+              <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/rest-api-svgrepo-com.svg">
+            </picture>
           </a>
         </td> 
         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
           FAST API<br>
           <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/FastAPI.svg">
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/Important-SVGs/blob/main/FastAPI.svg">
+              <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/fastapi">
+              <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/FastAPI.svg">
+            </picture>
           </a>
         </td>
           <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
           Selenium<br>
           <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/selenium-svgrepo-com.svg">
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/Important-SVGs/blob/main/selenium-svgrepo-com.svg">
+              <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/selenium">
+              <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/selenium-svgrepo-com.svg">
+            </picture>
           </a>
           </td>
       </tr>
@@ -169,43 +231,71 @@ I believe in learning by doing — and I’m actively building projects that sho
         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
           Numpy<br>
           <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/NumPy.svg">
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/Important-SVGs/blob/main/NumPy.svg">
+              <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/numpy">
+              <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/NumPy.svg">
+            </picture>
           </a>
         </td>
         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
           Pandas<br>
           <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/Pandas.svg">
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/Important-SVGs/blob/main/Pandas.svg">
+              <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pandas">
+              <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/Pandas.svg">
+            </picture>
           </a>
         </td>
         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
           Matplotlib<br>
           <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/Matplotlib.svg">
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/Important-SVGs/blob/main/Matplotlib.svg">
+              <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
+              <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/Matplotlib.svg">
+            </picture>
           </a>
         </td> 
         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
           Plotly<br>
           <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/Ploty.svg">
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/Important-SVGs/blob/main/Ploty.svg">
+              <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/plotly">
+              <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/Ploty.svg">
+            </picture>
           </a>
         </td>
         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
           Scipy<br>
           <a href="https://nodemon.io/" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/scipy-seeklogo.svg">
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/Important-SVGs/blob/main/scipy-seeklogo.svg">
+              <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/scipy">
+              <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/scipy-seeklogo.svg">
+            </picture>
           </a>
         </td>
         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
           Statmodels<br>
           <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/statsmodels-logo-v2-no-text.svg">
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/Important-SVGs/blob/main/statsmodels-logo-v2-no-text.svg">
+              <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/statsmodels/statsmodels/main/docs/logos/statsmodels-logo-v2.svg">
+              <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/statsmodels-logo-v2-no-text.svg">
+            </picture>
           </a>
         </td>
           <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
           Excel<br>
           <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/excel-svgrepo-com.svg">
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/Important-SVGs/blob/main/excel-svgrepo-com.svg">
+              <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg">
+              <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/excel-svgrepo-com.svg">
+            </picture>
           </a>
         </td>
         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
@@ -229,19 +319,33 @@ I believe in learning by doing — and I’m actively building projects that sho
         <td width="150px" align="center" style="border: 1px solid transparent; padding: 20px;">
           LangChain<br><br>
           <a href="https://langchain.com/" target="_blank" rel="noreferrer">
-            <img height="96px" src="./LangChain.svg" alt="LangChain" />
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="./LangChain.svg">
+              <source media="(prefers-color-scheme: light)" srcset="./LangChain.svg">
+              <!-- Replace with dark version for light mode if available -->
+              <img height="96px" src="./LangChain.svg" alt="LangChain" />
+            </picture>
           </a>
         </td>
         <td width="150px" align="center" style="border: 1px solid transparent; padding: 20px;">
           LangGraph<br><br>
           <a href="https://langchain-ai.github.io/langgraph/" target="_blank" rel="noreferrer">
-            <img height="96px" src="./LangGraph.svg" alt="LangGraph" />
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="./LangGraph.svg">
+              <source media="(prefers-color-scheme: light)" srcset="./LangGraph.svg">
+              <!-- Replace with dark version for light mode if available -->
+              <img height="96px" src="./LangGraph.svg" alt="LangGraph" />
+            </picture>
           </a>
         </td>
         <td width="150px" align="center" style="border: 1px solid transparent; padding: 20px;">
           MCP<br><br>
           <a href="https://modelcontextprotocol.io/" target="_blank" rel="noreferrer">
-             <img height="96px" src="https://raw.githubusercontent.com/modelcontextprotocol/modelcontextprotocol/main/docs/logo/dark.svg" alt="Model Context Protocol" />
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modelcontextprotocol/modelcontextprotocol/main/docs/logo/dark.svg">
+              <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/modelcontextprotocol/modelcontextprotocol/main/docs/logo/light.svg">
+              <img height="96px" src="https://raw.githubusercontent.com/modelcontextprotocol/modelcontextprotocol/main/docs/logo/dark.svg" alt="Model Context Protocol" />
+            </picture>
           </a>
         </td>
       </tr>
@@ -259,19 +363,31 @@ I believe in learning by doing — and I’m actively building projects that sho
         <td width="70px" align="center" style="border: 1px solid transparent; padding: 8px;">
           Windows 11<br>
           <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://github.com/07subhadip/07subhadip/blob/main/Windows%2011.svg" alt="Windows 11" />
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/07subhadip/blob/main/Windows%2011.svg">
+              <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/e/e6/Windows_11_logo.svg">
+              <img height="32px" src="https://github.com/07subhadip/07subhadip/blob/main/Windows%2011.svg" alt="Windows 11" />
+            </picture>
           </a>
         </td>
         <td width="70px" align="center" style="border: 1px solid transparent; padding: 8px;">
           Linux<br>
           <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://github.com/07subhadip/07subhadip/blob/main/Linux.svg" alt="Linux" />
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/07subhadip/blob/main/Linux.svg">
+              <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/linux/000000">
+              <img height="32px" src="https://github.com/07subhadip/07subhadip/blob/main/Linux.svg" alt="Linux" />
+            </picture>
           </a>
         </td>
         <td width="70px" align="center" style="border: 1px solid transparent; padding: 8px;">
           Kali Linux<br>
           <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://cdn.worldvectorlogo.com/logos/kali-1.svg" alt="Kali Linux" />
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://cdn.worldvectorlogo.com/logos/kali-1.svg">
+              <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/kalilinux">
+              <img height="32px" src="https://cdn.worldvectorlogo.com/logos/kali-1.svg" alt="Kali Linux" />
+            </picture>
           </a>
         </td>
       </tr>
@@ -295,7 +411,11 @@ I believe in learning by doing — and I’m actively building projects that sho
         <td width="70px" align="center" style="border: 1px solid transparent; padding: 8px;">
           Oracle<br>
           <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://github.com/07subhadip/07subhadip/blob/main/Oracle.svg" alt="Oracle" />
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/07subhadip/blob/main/Oracle.svg">
+              <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/oracle">
+              <img height="32px" src="https://github.com/07subhadip/07subhadip/blob/main/Oracle.svg" alt="Oracle" />
+            </picture>
           </a>
         </td>
         <td width="70px" align="center" style="border: 1px solid transparent; padding: 8px;">
@@ -307,7 +427,11 @@ I believe in learning by doing — and I’m actively building projects that sho
         <td width="70px" align="center" style="border: 1px solid transparent; padding: 8px;">
           MSSQL<br>
           <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-            <img height="64px" src="./MSSQL.svg">
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="./MSSQL.svg">
+              <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/microsoftsqlserver">
+              <img height="64px" src="./MSSQL.svg">
+            </picture>
         </td>
       </tr>
     </tbody>
@@ -340,7 +464,11 @@ I believe in learning by doing — and I’m actively building projects that sho
         <td width="70px" align="center" style="border: 1px solid transparent; padding: 8px;">
           GitHub Actions<br>
           <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://github.com/07subhadip/07subhadip/blob/main/GitHub%20Actions.svg" alt="GitHub Actions" />
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/07subhadip/blob/main/GitHub%20Actions.svg">
+              <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/githubactions">
+              <img height="32px" src="https://github.com/07subhadip/07subhadip/blob/main/GitHub%20Actions.svg" alt="GitHub Actions" />
+            </picture>
           </a>
         </td>
       </tr>
@@ -382,7 +510,11 @@ I believe in learning by doing — and I’m actively building projects that sho
         <td width="70px" align="center" style="border: 1px solid transparent; padding: 8px;">
           Antigravity IDE<br>
           <a href="https://deepmind.google/technologies/gemini/" target="_blank" rel="noreferrer">
-            <img height="32px" src="./Antigravity-IDE.svg" alt="Antigravity IDE" />
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="./Antigravity-IDE.svg">
+              <source media="(prefers-color-scheme: light)" srcset="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg">
+              <img height="32px" src="./Antigravity-IDE.svg" alt="Antigravity IDE" />
+            </picture>
           </a>
         </td>
       </tr>
@@ -400,7 +532,11 @@ I believe in learning by doing — and I’m actively building projects that sho
         <td width="60px" align="center" style="border: 1px solid transparent; padding: 8px;">
           Flask<br>
           <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer">
-            <img height="36px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" />
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg">
+              <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg">
+              <img height="36px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" />
+            </picture>
           </a>
         </td>
         <td width="60px" align="center" style="border: 1px solid transparent; padding: 8px;">
@@ -465,7 +601,12 @@ I believe in learning by doing — and I’m actively building projects that sho
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
  -->
 
-<img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
+  <!-- Replace with dark version for light mode if available -->
+  <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
+</picture>
 
 <h3 align="center">GitHub Stats</h3>
 
@@ -487,9 +628,8 @@ I believe in learning by doing — and I’m actively building projects that sho
 
 [![GeeksForGeeks stats](https://gfgstatscard.vercel.app/07subhadip)](https://www.geeksforgeeks.org/user/07subhadip/)
 
-
-
 ![Github Trophies](https://github-trophies.vercel.app/?username=07subhadip&theme=discord)
+
 </div>
 
 <br>
@@ -515,7 +655,7 @@ I believe in learning by doing — and I’m actively building projects that sho
   </a>
   <a href="http://www.instagram.com/subhadip_hensh/" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="![image](https://github.com/user-attachments/assets/326d4168-d894-4a0e-a152-f1cb4ad5d1fa)" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/326d4168-d894-4a0e-a152-f1cb4ad5d1fa" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="30" height="30" />
     </picture>
@@ -538,12 +678,27 @@ I believe in learning by doing — and I’m actively building projects that sho
 
 <p align="center">
   <a href="https://www.hackerrank.com/profile/subhadiphensh311" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="30" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg">
+      <!-- Replace with light mode version if available -->
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="30" />
+    </picture>
   </a>
   <a href="https://leetcode.com/u/subhadip_hensh/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="30" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg">
+      <!-- Replace with light mode version if available -->
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="30" />
+    </picture>
   </a>
   <a href="https://www.geeksforgeeks.org/user/subhadiphensh31102000/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="30" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg">
+      <!-- Replace with light mode version if available -->
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="30" />
+    </picture>
   </a>
 </p>

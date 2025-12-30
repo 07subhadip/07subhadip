@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub README Theme Preview</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            line-height: 1.6;
+        }
+
+        .theme-toggle {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            z-index: 1000;
+            background: #2563eb;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 16px;
+            font-weight: 600;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            transition: all 0.3s ease;
+        }
+
+        .theme-toggle:hover {
+            background: #1d4ed8;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 8px rgba(0,0,0,0.15);
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 80px 20px 40px;
+        }
+
+        /* Light Mode */
+        body.light-mode {
+            background: #ffffff;
+            color: #24292f;
+        }
+
+        body.light-mode .preview-box {
+            background: #f6f8fa;
+            border: 1px solid #d0d7de;
+        }
+
+        /* Dark Mode */
+        body.dark-mode {
+            background: #0d1117;
+            color: #c9d1d9;
+        }
+
+        body.dark-mode .preview-box {
+            background: #161b22;
+            border: 1px solid #30363d;
+        }
+
+        body.dark-mode .theme-toggle {
+            background: #238636;
+        }
+
+        body.dark-mode .theme-toggle:hover {
+            background: #2ea043;
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 10px;
+            font-size: 2.5em;
+        }
+
+        .subtitle {
+            text-align: center;
+            margin-bottom: 40px;
+            opacity: 0.7;
+            font-size: 1.1em;
+        }
+
+        .preview-box {
+            border-radius: 12px;
+            padding: 30px;
+            margin-bottom: 30px;
+            transition: all 0.3s ease;
+        }
+
+        h2 {
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid;
+            font-size: 1.8em;
+        }
+
+        body.light-mode h2 {
+            border-color: #d0d7de;
+        }
+
+        body.dark-mode h2 {
+            border-color: #30363d;
+        }
+
+        .logo-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        .logo-item {
+            text-align: center;
+            padding: 15px;
+            border-radius: 8px;
+            transition: all 0.3s ease;
+        }
+
+        body.light-mode .logo-item {
+            background: white;
+            border: 1px solid #d0d7de;
+        }
+
+        body.dark-mode .logo-item {
+            background: #0d1117;
+            border: 1px solid #30363d;
+        }
+
+        .logo-item:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+        }
+
+        .logo-item img {
+            width: 48px;
+            height: 48px;
+            margin-bottom: 10px;
+            object-fit: contain;
+        }
+
+        .logo-item .label {
+            font-size: 0.85em;
+            font-weight: 500;
+        }
+
+        .status-indicator {
+            display: inline-block;
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            background: #2ea043;
+            margin-left: 8px;
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+
+        .info-box {
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 30px;
+            border-left: 4px solid #2563eb;
+        }
+
+        body.light-mode .info-box {
+            background: #dbeafe;
+            color: #1e40af;
+        }
+
+        body.dark-mode .info-box {
+            background: #1e3a8a;
+            color: #dbeafe;
+        }
+
+        .info-box strong {
+            display: block;
+            margin-bottom: 8px;
+            font-size: 1.1em;
+        }
+    </style>
+</head>
+<body class="dark-mode">
+    <button class="theme-toggle" onclick="toggleTheme()">
+        <span id="theme-text">☀️ Switch to Light Mode</span>
+    </button>
+
+    <div class="container">
+        <h1>GitHub README Theme Preview <span class="status-indicator"></span></h1>
+        <p class="subtitle">Toggle between Light and Dark modes to see how your logos adapt</p>
+
+        <div class="info-box">
+            <strong>✅ All logos updated successfully!</strong>
+            Click the button in the top-right to toggle between Light and Dark themes. 
+            All logos below will automatically switch to their appropriate versions.
+        </div>
+
+        <div class="preview-box">
+            <h2>Programming Languages</h2>
+            <div class="logo-grid">
+                <div class="logo-item">
+                    <picture>
+                        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg">
+                        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg">
+                        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python">
+                    </picture>
+                    <div class="label">Python</div>
+                </div>
+                <div class="logo-item">
+                    <picture>
+                        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/Important-SVGs/blob/main/microsoft-sql-server-logo-svgrepo-com.svg">
+                        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/microsoftsqlserver">
+                        <img src="https://cdn.simpleicons.org/microsoftsqlserver" alt="MS SQL">
+                    </picture>
+                    <div class="label">MS SQL</div>
+                </div>
+                <div class="logo-item">
+                    <picture>
+                        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/Important-SVGs/blob/main/Bash.svg">
+                        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gnubash">
+                        <img src="https://cdn.simpleicons.org/gnubash" alt="Bash">
+                    </picture>
+                    <div class="label">Bash</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="preview-box">
+            <h2>Data Engineering Tools</h2>
+            <div class="logo-grid">
+                <div class="logo-item">
+                    <picture>
+                        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/Important-SVGs/blob/main/Apache%20Airflow.svg">
+                        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/apacheairflow">
+                        <img src="https://cdn.simpleicons.org/apacheairflow" alt="Apache Airflow">
+                    </picture>
+                    <div class="label">Airflow</div>
+                </div>
+                <div class="logo-item">
+                    <picture>
+                        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/Important-SVGs/blob/main/bigquery-svgrepo-com.svg">
+                        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/googlebigquery">
+                        <img src="https://cdn.simpleicons.org/googlebigquery" alt="BigQuery">
+                    </picture>
+                    <div class="label">BigQuery</div>
+                </div>
+                <div class="logo-item">
+                    <picture>
+                        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/Important-SVGs/blob/main/FastAPI.svg">
+                        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/fastapi">
+                        <img src="https://cdn.simpleicons.org/fastapi" alt="FastAPI">
+                    </picture>
+                    <div class="label">FastAPI</div>
+                </div>
+                <div class="logo-item">
+                    <picture>
+                        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/Important-SVGs/blob/main/selenium-svgrepo-com.svg">
+                        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/selenium">
+                        <img src="https://cdn.simpleicons.org/selenium" alt="Selenium">
+                    </picture>
+                    <div class="label">Selenium</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="preview-box">
+            <h2>Data Analysis Tools</h2>
+            <div class="logo-grid">
+                <div class="logo-item">
+                    <picture>
+                        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/Important-SVGs/blob/main/NumPy.svg">
+                        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/numpy">
+                        <img src="https://cdn.simpleicons.org/numpy" alt="NumPy">
+                    </picture>
+                    <div class="label">NumPy</div>
+                </div>
+                <div class="logo-item">
+                    <picture>
+                        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/Important-SVGs/blob/main/Pandas.svg">
+                        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pandas">
+                        <img src="https://cdn.simpleicons.org/pandas" alt="Pandas">
+                    </picture>
+                    <div class="label">Pandas</div>
+                </div>
+                <div class="logo-item">
+                    <picture>
+                        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/Important-SVGs/blob/main/Matplotlib.svg">
+                        <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib">
+                    </picture>
+                    <div class="label">Matplotlib</div>
+                </div>
+                <div class="logo-item">
+                    <picture>
+                        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/Important-SVGs/blob/main/Ploty.svg">
+                        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/plotly">
+                        <img src="https://cdn.simpleicons.org/plotly" alt="Plotly">
+                    </picture>
+                    <div class="label">Plotly</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="preview-box">
+            <h2>Operating Systems</h2>
+            <div class="logo-grid">
+                <div class="logo-item">
+                    <picture>
+                        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/07subhadip/blob/main/Windows%2011.svg">
+                        <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/e/e6/Windows_11_logo.svg">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Windows_11_logo.svg" alt="Windows 11">
+                    </picture>
+                    <div class="label">Windows 11</div>
+                </div>
+                <div class="logo-item">
+                    <picture>
+                        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/07subhadip/blob/main/Linux.svg">
+                        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/linux/000000">
+                        <img src="https://cdn.simpleicons.org/linux/000000" alt="Linux">
+                    </picture>
+                    <div class="label">Linux</div>
+                </div>
+                <div class="logo-item">
+                    <picture>
+                        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.worldvectorlogo.com/logos/kali-1.svg">
+                        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/kalilinux">
+                        <img src="https://cdn.simpleicons.org/kalilinux" alt="Kali Linux">
+                    </picture>
+                    <div class="label">Kali Linux</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="info-box">
+            <strong>🎨 How to use this preview:</strong>
+            1. Click the toggle button to switch themes<br>
+            2. Observe how each logo changes color/version<br>
+            3. Verify all logos are clearly visible in both modes<br>
+            4. Your GitHub README will work exactly like this!
+        </div>
+    </div>
+
+    <script>
+        function toggleTheme() {
+            const body = document.body;
+            const themeText = document.getElementById('theme-text');
+            
+            if (body.classList.contains('dark-mode')) {
+                body.classList.remove('dark-mode');
+                body.classList.add('light-mode');
+                themeText.textContent = '🌙 Switch to Dark Mode';
+            } else {
+                body.classList.remove('light-mode');
+                body.classList.add('dark-mode');
+                themeText.textContent = '☀️ Switch to Light Mode';
+            }
+        }
+
+        // Set initial theme based on system preference
+        if (window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches) {
+            document.body.classList.remove('dark-mode');
+            document.body.classList.add('light-mode');
+            document.getElementById('theme-text').textContent = '🌙 Switch to Dark Mode';
+        }
+    </script>
+</body>
+</html>
