@@ -322,7 +322,7 @@ I believe in learning by doing — and I'm actively building projects that showc
             <picture>
               <source media="(prefers-color-scheme: dark)" srcset="./LangChain.svg">
               <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/langchain/1C3C3C">
-              <img height="64px" src="./LangChain.svg" alt="LangChain" />
+              <img height="32px" src="./LangChain.svg" alt="LangChain" />
             </picture>
           </a>
         </td>
@@ -332,7 +332,7 @@ I believe in learning by doing — and I'm actively building projects that showc
             <picture>
               <source media="(prefers-color-scheme: dark)" srcset="./LangGraph.svg">
               <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/langgraph/1C3C3C">
-              <img height="64px" src="./LangGraph.svg" alt="LangGraph" />
+              <img height="32px" src="./LangGraph.svg" alt="LangGraph" />
             </picture>
           </a>
         </td>
@@ -342,7 +342,7 @@ I believe in learning by doing — and I'm actively building projects that showc
             <picture>
               <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modelcontextprotocol/modelcontextprotocol/main/docs/logo/dark.svg">
               <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/modelcontextprotocol/1C3C3C">
-              <img height="64px" src="https://raw.githubusercontent.com/modelcontextprotocol/modelcontextprotocol/main/docs/logo/dark.svg" alt="Model Context Protocol" />
+              <img height="32px" src="https://raw.githubusercontent.com/modelcontextprotocol/modelcontextprotocol/main/docs/logo/dark.svg" alt="Model Context Protocol" />
             </picture>
           </a>
         </td>
@@ -622,12 +622,14 @@ I believe in learning by doing — and I'm actively building projects that showc
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=07subhadip&show_icons=true&count_private=true&title_color=0891b2&text_color=24292f&icon_color=0891b2&bg_color=ffffff&hide_border=true">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=07subhadip&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="07subhadip's GitHub stats" />
 </picture>
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=07subhadip&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true">
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=07subhadip&stroke=000000&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true">
   <img src="https://streak-stats.demolab.com/?user=07subhadip&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </picture>
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=07subhadip&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages">
