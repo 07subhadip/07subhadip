@@ -38,8 +38,8 @@
 <div style="width: 100%; overflow-x: auto; text-align: center;">
   <div align="center" style="display: inline-block; margin-right: 10px; overflow: hidden;">
     <br>
-    <img height="200px" width="570px" style="max-width: 550px; width: 550px; height: 200px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=07subhadip&theme=vue">
-    <img height="200px" width="230px" style="max-width: 265px; width: 265px; height: 200px;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=07subhadip&theme=vue&utcOffset=8">
+    <img height="200px" width="570px" style="max-width: 550px; width: 550px; height: 200px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=07subhadip&theme=dark">
+    <img height="200px" width="230px" style="max-width: 265px; width: 265px; height: 200px;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=07subhadip&theme=dark&utcOffset=8">
   </div>
 </div>
 
@@ -354,7 +354,7 @@ I believe in learning by doing — and I'm actively building projects that showc
       </tr>
     </tbody>
   </table>
- <br><br><br><br>
+ <br><br>
 </div>
 <br clear="all">
 <br><br>
