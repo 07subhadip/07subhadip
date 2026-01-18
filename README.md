@@ -509,7 +509,7 @@ I believe in learning by doing — and I'm actively building projects that showc
         <td width="70px" align="center" style="border: 1px solid transparent; padding: 8px;">
           Visual Studio Code Insider<br>
           <a href="https://code.visualstudio.com/insiders/" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg/384px-Visual_Studio_Code_Insiders_1.36_icon.svg.png" alt="Visual Studio Code Insider" />
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg/500px-Visual_Studio_Code_Insiders_1.36_icon.svg.png" alt="Visual Studio Code Insider" />
           </a>
         </td>
         <td width="70px" align="center" style="border: 1px solid transparent; padding: 8px;">
@@ -540,6 +540,9 @@ I believe in learning by doing — and I'm actively building projects that showc
  <br><br><br><br><br><br><br>
 </div>
 <div style="clear:both;"></div>
+
+<br>
+
 
 ### Other Tools & Technologies
 
