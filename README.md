@@ -321,32 +321,6 @@ class SubhadipHensh:
           </picture>
         </td>
       </tr>
-      <tr>
-        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
-          CrewAI<br>
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/crewai/ffffff">
-            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/crewai/000000">
-            <img height="32px" src="https://cdn.simpleicons.org/crewai/ffffff">
-          </picture>
-        </td>
-        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
-          Google A2A<br>
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/google/ffffff">
-            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/google/4285F4">
-            <img height="32px" src="https://cdn.simpleicons.org/google/ffffff">
-          </picture>
-        </td>
-        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
-          OpenAI API<br>
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/openai/ffffff">
-            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/openai/000000">
-            <img height="32px" src="https://cdn.simpleicons.org/openai/ffffff">
-          </picture>
-        </td>
-      </tr>
     </tbody>
   </table>
 </div>
@@ -540,7 +514,7 @@ class SubhadipHensh:
         </td>
         <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
           IntelliJ<br>
-          <img height="32px" src="https://cdn.simpleicons.org/intellijidea">
+          <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png">
         </td>
         <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
           Antigravity<br>
