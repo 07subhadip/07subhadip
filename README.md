@@ -60,16 +60,16 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science-00f0ff?style=for-the-badge&logo=python&logoColor=0a0a0a&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/Data%20Science-1e90ff?style=for-the-badge&logo=python&logoColor=1e90ff&labelColor=0a0a0a" />
   <img src="https://img.shields.io/badge/Machine%20Learning-ff2e97?style=for-the-badge&logo=scikit-learn&logoColor=ff2e97&labelColor=0a0a0a" />
   <img src="https://img.shields.io/badge/Deep%20Learning-ff6600?style=for-the-badge&logo=tensorflow&logoColor=ff6600&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-00ff88?style=for-the-badge&logo=opencv&logoColor=00ff88&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-5ba870?style=for-the-badge&logo=opencv&logoColor=5ba870&labelColor=0a0a0a" />
   <img src="https://img.shields.io/badge/GenAI%20%26%20LLMs-bf00ff?style=for-the-badge&logo=openai&logoColor=bf00ff&labelColor=0a0a0a" />
   <img src="https://img.shields.io/badge/NLP-ffdd00?style=for-the-badge&logo=huggingface&logoColor=ffdd00&labelColor=0a0a0a" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=07subhadip&label=Profile%20views&color=00f0ff&style=flat" alt="07subhadip" />
+  <img src="https://komarev.com/ghpvc/?username=07subhadip&label=Profile%20views&color=1e90ff&style=flat" alt="07subhadip" />
   <a href="https://github.com/07subhadip/07subhadip/fork"><img src="https://img.shields.io/github/forks/07subhadip/07subhadip?style=social" alt="Forks"></a>
   <a href="https://github.com/07subhadip/07subhadip/stargazers"><img src="https://img.shields.io/github/stars/07subhadip/07subhadip?style=social" alt="Stars"></a>
   <a href="https://github.com/07subhadip/07subhadip/watchers"><img src="https://img.shields.io/github/watchers/07subhadip/07subhadip?style=social" alt="Watchers"></a>
@@ -83,6 +83,7 @@ class SubhadipHensh:
         self.stack = ["Python", "Pandas", "Scikit-learn", "TensorFlow", "SQL"]
         self.interests = ["ML", "Deep Learning", "GenAI", "LLMs", "Agentic AI"]
         self.currently_building = "Intelligent systems with data-driven solutions"
+        self.portfolio = "https://portfolio-website-ds-theta.vercel.app/"
         self.fun_facts = ["Anime fan 🎌", "Chess enthusiast ♟️", "Coffee-powered ☕"]
 ```
 
@@ -97,8 +98,10 @@ class SubhadipHensh:
 
 ### `> quick_info.log`
 
-📍 Based in **India** · 📫 [subhadiphensh31102000@gmail.com](mailto:subhadiphensh31102000@gmail.com)
-🧠 Learning: **Deep Learning**, **NLP**, **GenAI & Agentic AI**
+📍 Based in **India**  
+📫 Reach me at: [subhadiphensh31102000@gmail.com](mailto:subhadiphensh31102000@gmail.com)  
+🌐 Portfolio: [portfolio-website-ds-theta.vercel.app](https://portfolio-website-ds-theta.vercel.app/)  
+🧠 Learning: **Deep Learning**, **NLP**, **GenAI & Agentic AI**  
 🎮 Fun fact: **Anime fan** & **Chess ♟️** enthusiast · ☕ Fueled by coffee
 
 
@@ -207,6 +210,22 @@ class SubhadipHensh:
             <img height="32px" src="./Anaconda.svg">
           </picture>
         </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Colab<br>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googlecolab/ffffff">
+            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/googlecolab">
+            <img height="32px" src="https://cdn.simpleicons.org/googlecolab/ffffff">
+          </picture>
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Kaggle<br>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/kaggle/ffffff">
+            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/kaggle">
+            <img height="32px" src="https://cdn.simpleicons.org/kaggle/ffffff">
+          </picture>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -292,6 +311,40 @@ class SubhadipHensh:
         <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
           Gradio<br>
           <img height="32px" src="https://cdn.simpleicons.org/gradio">
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          LangSmith<br>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/langchain/ffffff">
+            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/langchain/1C3C3C">
+            <img height="32px" src="https://cdn.simpleicons.org/langchain/ffffff">
+          </picture>
+        </td>
+      </tr>
+      <tr>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          CrewAI<br>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/crewai/ffffff">
+            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/crewai/000000">
+            <img height="32px" src="https://cdn.simpleicons.org/crewai/ffffff">
+          </picture>
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Google A2A<br>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/google/ffffff">
+            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/google/4285F4">
+            <img height="32px" src="https://cdn.simpleicons.org/google/ffffff">
+          </picture>
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          OpenAI API<br>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/openai/ffffff">
+            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/openai/000000">
+            <img height="32px" src="https://cdn.simpleicons.org/openai/ffffff">
+          </picture>
         </td>
       </tr>
     </tbody>
@@ -487,7 +540,7 @@ class SubhadipHensh:
         </td>
         <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
           IntelliJ<br>
-          <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png">
+          <img height="32px" src="https://cdn.simpleicons.org/intellijidea">
         </td>
         <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
           Antigravity<br>
