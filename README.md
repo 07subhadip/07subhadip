@@ -101,6 +101,7 @@ class SubhadipHensh:
 📍 Based in **India**  
 📫 Reach me at: [subhadiphensh31102000@gmail.com](mailto:subhadiphensh31102000@gmail.com)  
 🌐 Portfolio: [portfolio-website-ds-theta.vercel.app](https://portfolio-website-ds-theta.vercel.app/)  
+📄 Resume: [Download my Resume](./Subhadip%20Hensh%20Final%20Updated%20Resume%20IntelliPaat.pdf)  
 🧠 Learning: **Deep Learning**, **NLP**, **GenAI & Agentic AI**  
 🎮 Fun fact: **Anime fan** & **Chess ♟️** enthusiast · ☕ Fueled by coffee
 
