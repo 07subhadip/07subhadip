@@ -112,109 +112,446 @@ class SubhadipHensh:
 
 ### `> programming_languages`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-00f0ff?style=for-the-badge&logo=python&logoColor=00f0ff&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/SQL-00f0ff?style=for-the-badge&logo=microsoftsqlserver&logoColor=00f0ff&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/JavaScript-00f0ff?style=for-the-badge&logo=javascript&logoColor=f7df1e&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/Bash-00f0ff?style=for-the-badge&logo=gnubash&logoColor=00f0ff&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/C++-00f0ff?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/C-00f0ff?style=for-the-badge&logo=c&logoColor=A8B9CC&labelColor=0a0a0a" />
-</p>
+<div align="center">
+  <table cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent;">
+    <tbody>
+      <tr>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Python<br>
+          <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg">
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          JavaScript<br>
+          <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg">
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          MS SQL<br>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./MSSQL.svg">
+            <source media="(prefers-color-scheme: light)" srcset="./MSSQL-light.svg">
+            <img height="32px" src="./MSSQL.svg">
+          </picture>
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Bash<br>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/Important-SVGs/blob/main/Bash.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gnubash">
+            <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/Bash.svg">
+          </picture>
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          C++<br>
+          <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg">
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          C<br>
+          <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ### `> data_science_analytics`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-ff2e97?style=for-the-badge&logo=numpy&logoColor=ff2e97&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/Pandas-ff2e97?style=for-the-badge&logo=pandas&logoColor=ff2e97&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/SciPy-ff2e97?style=for-the-badge&logo=scipy&logoColor=ff2e97&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/Statsmodels-ff2e97?style=for-the-badge&logo=python&logoColor=ff2e97&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/Jupyter-ff2e97?style=for-the-badge&logo=jupyter&logoColor=ff2e97&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/Anaconda-ff2e97?style=for-the-badge&logo=anaconda&logoColor=ff2e97&labelColor=0a0a0a" />
-</p>
+<div align="center">
+  <table cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent;">
+    <tbody>
+      <tr>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          NumPy<br>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/Important-SVGs/blob/main/NumPy.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/numpy">
+            <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/NumPy.svg">
+          </picture>
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Pandas<br>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/Important-SVGs/blob/main/Pandas.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pandas">
+            <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/Pandas.svg">
+          </picture>
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          SciPy<br>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/Important-SVGs/blob/main/scipy-seeklogo.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/scipy">
+            <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/scipy-seeklogo.svg">
+          </picture>
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Statsmodels<br>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/Important-SVGs/blob/main/statsmodels-logo-v2-no-text.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg">
+            <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/statsmodels-logo-v2-no-text.svg">
+          </picture>
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Jupyter<br>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./Jupyter.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/jupyter">
+            <img height="32px" src="./Jupyter.svg">
+          </picture>
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Anaconda<br>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./Anaconda.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/anaconda">
+            <img height="32px" src="./Anaconda.svg">
+          </picture>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ### `> ml_deep_learning`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Scikit--learn-00ff88?style=for-the-badge&logo=scikit-learn&logoColor=00ff88&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/TensorFlow-00ff88?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/PyTorch-00ff88?style=for-the-badge&logo=pytorch&logoColor=EE4C2C&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/Keras-00ff88?style=for-the-badge&logo=keras&logoColor=D00000&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/OpenCV-00ff88?style=for-the-badge&logo=opencv&logoColor=00ff88&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-00ff88?style=for-the-badge&logo=huggingface&logoColor=ffdd00&labelColor=0a0a0a" />
-</p>
+<div align="center">
+  <table cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent;">
+    <tbody>
+      <tr>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Scikit-learn<br>
+          <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          TensorFlow<br>
+          <img height="32px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg">
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          PyTorch<br>
+          <img height="32px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg">
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Keras<br>
+          <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg">
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          OpenCV<br>
+          <img height="32px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg">
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Hugging Face<br>
+          <img height="32px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ### `> genai_llm_engineering`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-bf00ff?style=for-the-badge&logo=langchain&logoColor=bf00ff&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/LangGraph-bf00ff?style=for-the-badge&logo=langgraph&logoColor=bf00ff&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/MCP-bf00ff?style=for-the-badge&logo=modelcontextprotocol&logoColor=bf00ff&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/Ollama-bf00ff?style=for-the-badge&logo=ollama&logoColor=bf00ff&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/Streamlit-bf00ff?style=for-the-badge&logo=streamlit&logoColor=FF4B4B&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/Gradio-bf00ff?style=for-the-badge&logo=gradio&logoColor=bf00ff&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/LangSmith-bf00ff?style=for-the-badge&logo=langchain&logoColor=bf00ff&labelColor=0a0a0a" />
-</p>
+<div align="center">
+  <table cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent;">
+    <tbody>
+      <tr>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          LangChain<br>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./LangChain.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/langchain/1C3C3C">
+            <img height="32px" src="./LangChain.svg">
+          </picture>
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          LangGraph<br>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./LangGraph.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/langgraph/1C3C3C">
+            <img height="32px" src="./LangGraph.svg">
+          </picture>
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          MCP<br>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modelcontextprotocol/modelcontextprotocol/main/docs/logo/dark.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/modelcontextprotocol/1C3C3C">
+            <img height="32px" src="https://raw.githubusercontent.com/modelcontextprotocol/modelcontextprotocol/main/docs/logo/dark.svg">
+          </picture>
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Ollama<br>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/ollama/ffffff">
+            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/ollama/000000">
+            <img height="32px" src="https://cdn.simpleicons.org/ollama/ffffff">
+          </picture>
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Streamlit<br>
+          <img height="32px" src="https://cdn.simpleicons.org/streamlit">
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Gradio<br>
+          <img height="32px" src="https://cdn.simpleicons.org/gradio">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 
 ### `> visualization_bi`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Matplotlib-ffdd00?style=for-the-badge&logo=python&logoColor=ffdd00&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/Plotly-ffdd00?style=for-the-badge&logo=plotly&logoColor=ffdd00&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/Seaborn-ffdd00?style=for-the-badge&logo=python&logoColor=ffdd00&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/Power%20BI-ffdd00?style=for-the-badge&logo=powerbi&logoColor=F2C811&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/Excel-ffdd00?style=for-the-badge&logo=microsoftexcel&logoColor=217346&labelColor=0a0a0a" />
-</p>
+<div align="center">
+  <table cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent;">
+    <tbody>
+      <tr>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Matplotlib<br>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/Important-SVGs/blob/main/Matplotlib.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
+            <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/Matplotlib.svg">
+          </picture>
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Plotly<br>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/Important-SVGs/blob/main/Ploty.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/plotly">
+            <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/Ploty.svg">
+          </picture>
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Seaborn<br>
+          <img height="32px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg">
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Power BI<br>
+          <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Excel<br>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/Important-SVGs/blob/main/excel-svgrepo-com.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://img.icons8.com/fluency/48/microsoft-excel-2019.png">
+            <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/excel-svgrepo-com.svg">
+          </picture>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ### `> data_engineering_apis`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Apache%20Airflow-ff6600?style=for-the-badge&logo=apacheairflow&logoColor=ff6600&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/BigQuery-ff6600?style=for-the-badge&logo=googlebigquery&logoColor=ff6600&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/FastAPI-ff6600?style=for-the-badge&logo=fastapi&logoColor=009688&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/REST%20APIs-ff6600?style=for-the-badge&logo=swagger&logoColor=ff6600&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/Selenium-ff6600?style=for-the-badge&logo=selenium&logoColor=43B02A&labelColor=0a0a0a" />
-</p>
+<div align="center">
+  <table cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent;">
+    <tbody>
+      <tr>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Airflow<br>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/Important-SVGs/blob/main/Apache%20Airflow.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png">
+            <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/Apache%20Airflow.svg">
+          </picture>
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          BigQuery<br>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/Important-SVGs/blob/main/bigquery-svgrepo-com.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/googlebigquery">
+            <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/bigquery-svgrepo-com.svg">
+          </picture>
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          FastAPI<br>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/Important-SVGs/blob/main/FastAPI.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/fastapi">
+            <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/FastAPI.svg">
+          </picture>
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          REST APIs<br>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/Important-SVGs/blob/main/rest-api-svgrepo-com.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/swagger/222222">
+            <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/rest-api-svgrepo-com.svg">
+          </picture>
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Selenium<br>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/Important-SVGs/blob/main/selenium-svgrepo-com.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/selenium">
+            <img height="32px" src="https://github.com/07subhadip/Important-SVGs/blob/main/selenium-svgrepo-com.svg">
+          </picture>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ### `> databases`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MS%20SQL%20Server-00f0ff?style=for-the-badge&logo=microsoftsqlserver&logoColor=00f0ff&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/MySQL-00f0ff?style=for-the-badge&logo=mysql&logoColor=00f0ff&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/MongoDB-00f0ff?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/Oracle-00f0ff?style=for-the-badge&logo=oracle&logoColor=F80000&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/ChromaDB-00f0ff?style=for-the-badge&logo=chroma&logoColor=00f0ff&labelColor=0a0a0a" />
-</p>
+<div align="center">
+  <table cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent;">
+    <tbody>
+      <tr>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          MSSQL<br>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./MSSQL.svg">
+            <source media="(prefers-color-scheme: light)" srcset="./MSSQL-light.svg">
+            <img height="32px" src="./MSSQL.svg">
+          </picture>
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          MySQL<br>
+          <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg">
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          MongoDB<br>
+          <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg">
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Oracle<br>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./Oracle.svg">
+            <source media="(prefers-color-scheme: light)" srcset="./Oracle.svg">
+            <img height="32px" src="./Oracle.svg">
+          </picture>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-### `> devops_deployment`
+### `> devops_tools`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-ff2e97?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/Flask-ff2e97?style=for-the-badge&logo=flask&logoColor=ff2e97&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/Git-ff2e97?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/GitHub-ff2e97?style=for-the-badge&logo=github&logoColor=ff2e97&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-ff2e97?style=for-the-badge&logo=githubactions&logoColor=ff2e97&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/Linux-ff2e97?style=for-the-badge&logo=linux&logoColor=ff2e97&labelColor=0a0a0a" />
-</p>
+<div align="center">
+  <table cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent;">
+    <tbody>
+      <tr>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Docker<br>
+          <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg">
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Flask<br>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg">
+            <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg">
+          </picture>
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Git<br>
+          <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg">
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          GitHub<br>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg">
+            <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg">
+          </picture>
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Actions<br>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/07subhadip/blob/main/GitHub%20Actions.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/githubactions">
+            <img height="32px" src="https://github.com/07subhadip/07subhadip/blob/main/GitHub%20Actions.svg">
+          </picture>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-### `> tools_ides`
+### `> ides_editors`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-00ff88?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/PyCharm-00ff88?style=for-the-badge&logo=pycharm&logoColor=00ff88&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-00ff88?style=for-the-badge&logo=intellijidea&logoColor=00ff88&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/Antigravity%20IDE-00ff88?style=for-the-badge&logo=google&logoColor=00ff88&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/Figma-00ff88?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=0a0a0a" />
-</p>
+<div align="center">
+  <table cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent;">
+    <tbody>
+      <tr>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          VS Code<br>
+          <img height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          PyCharm<br>
+          <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg">
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          IntelliJ<br>
+          <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png">
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Antigravity<br>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./Antigravity-IDE.svg">
+            <source media="(prefers-color-scheme: light)" srcset="./Antigravity-IDE.svg">
+            <img height="32px" src="./Antigravity-IDE.svg">
+          </picture>
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Figma<br>
+          <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-### `> other_tech`
+### `> os_other`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-ffdd00?style=for-the-badge&logo=flutter&logoColor=02569B&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/Arduino-ffdd00?style=for-the-badge&logo=arduino&logoColor=00979D&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-ffdd00?style=for-the-badge&logo=raspberrypi&logoColor=A22846&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/Windows%2011-ffdd00?style=for-the-badge&logo=windows11&logoColor=0078D4&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-ffdd00?style=for-the-badge&logo=kalilinux&logoColor=557C94&labelColor=0a0a0a" />
-</p>
+<div align="center">
+  <table cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent;">
+    <tbody>
+      <tr>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Windows 11<br>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/07subhadip/blob/main/Windows%2011.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/e/e6/Windows_11_logo.svg">
+            <img height="32px" src="https://github.com/07subhadip/07subhadip/blob/main/Windows%2011.svg">
+          </picture>
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Linux<br>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/07subhadip/07subhadip/blob/main/Linux.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/linux/000000">
+            <img height="32px" src="https://github.com/07subhadip/07subhadip/blob/main/Linux.svg">
+          </picture>
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Kali Linux<br>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.worldvectorlogo.com/logos/kali-1.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/kalilinux">
+            <img height="32px" src="https://cdn.worldvectorlogo.com/logos/kali-1.svg">
+          </picture>
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Flutter<br>
+          <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg">
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Arduino<br>
+          <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg">
+        </td>
+        <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Raspberry Pi<br>
+          <img height="32px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <details>
 <summary><h3><code>🚀 currently_exploring</code></h3></summary>
@@ -229,16 +566,15 @@ class SubhadipHensh:
   <img src="https://img.shields.io/badge/FAISS-1a1a2e?style=for-the-badge&logo=meta&logoColor=00ff88" />
   <img src="https://img.shields.io/badge/ChromaDB-1a1a2e?style=for-the-badge&logo=chroma&logoColor=ffdd00" />
   <img src="https://img.shields.io/badge/vLLM-1a1a2e?style=for-the-badge&logo=v&logoColor=00f0ff" />
-  <img src="https://img.shields.io/badge/MLflow-1a1a2e?style=for-the-badge&logo=mlflow&logoColor=0194E2&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/W%26B-1a1a2e?style=for-the-badge&logo=weightsandbiases&logoColor=FFBE00&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Spark-1a1a2e?style=for-the-badge&logo=apachespark&logoColor=E25A1C&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/AWS-1a1a2e?style=for-the-badge&logo=amazonaws&logoColor=FF9900&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/GCP-1a1a2e?style=for-the-badge&logo=googlecloud&logoColor=4285F4&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Kubernetes-1a1a2e?style=for-the-badge&logo=kubernetes&logoColor=326CE5&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/MLflow-1a1a2e?style=for-the-badge&logo=mlflow&logoColor=0194E2" />
+  <img src="https://img.shields.io/badge/W%26B-1a1a2e?style=for-the-badge&logo=weightsandbiases&logoColor=FFBE00" />
+  <img src="https://img.shields.io/badge/Spark-1a1a2e?style=for-the-badge&logo=apachespark&logoColor=E25A1C" />
+  <img src="https://img.shields.io/badge/AWS-1a1a2e?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/GCP-1a1a2e?style=for-the-badge&logo=googlecloud&logoColor=4285F4" />
+  <img src="https://img.shields.io/badge/Kubernetes-1a1a2e?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
 </p>
 
 </details>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
