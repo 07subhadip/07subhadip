@@ -514,7 +514,7 @@ class SubhadipHensh:
         </td>
         <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
           IntelliJ<br>
-          <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png">
+          <img height="32px" src="./IntelliJ%20Idea.svg">
         </td>
         <td width="90px" align="center" style="border: 1px solid transparent; padding: 8px;">
           Antigravity<br>
